@@ -272,6 +272,14 @@ export function VideoStage({
           {partnerName}
         </span>
       </div>
+      {character && (
+        <div data-partner-character-name className="flex shrink-0 items-baseline justify-center gap-2 rounded-xl border border-amber-200/25 bg-amber-200/10 px-3 py-1.5 text-center">
+          <span className="shrink-0 text-[10px] font-black tracking-wider text-amber-200/75 uppercase">
+            Their character
+          </span>
+          <strong className="min-w-0 text-sm leading-tight text-white">{character.name}</strong>
+        </div>
+      )}
       <VideoCallControls call={call} />
     </div>
   );

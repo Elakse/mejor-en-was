@@ -38,8 +38,8 @@ Supporting decisions:
   read the next round.
 - Reads go through one `get_state()` RPC declared `SECURITY INVOKER`, so RLS decides what
   comes back. It cannot accidentally leak anything.
-- Pre-reveal the partner's character is shown **image only**, so recognising it is part of
-  the game.
+- Pre-reveal, the partner's character image and name are shown together. Your own character
+  remains hidden until the reveal.
 
 ## Stack and architecture
 
@@ -82,7 +82,7 @@ The two browsers exchange WebRTC setup messages through a **private Supabase Rea
 channel**. The channel's `realtime.messages` policies allow only the two seated players into
 the topic for their current pair; a replacement player changes the topic. Supabase carries no video frames; the browsers send media directly when
 possible. During guessing, each viewer draws the **partner's** character on top of the
-partner's incoming video. The sender's camera preview is plain video. No character image,
+partner's incoming video and shows their character name below it. The sender's camera preview is plain video. No character image,
 name, or key is put in signaling messages or composited into the outgoing stream, so a
 player's own unrevealed character is still absent from their browser. Face detection runs in
 the viewer's browser using MediaPipe. The model and WebAssembly runtime are downloaded from

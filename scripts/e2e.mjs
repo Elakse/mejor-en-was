@@ -209,8 +209,8 @@ async function main() {
     !leaked.some((l) => l.kind === "json" && l.body?.toLowerCase().includes(aliceOwn.name.toLowerCase())),
   );
   check(
-    "partner character is not shown by name (image only)",
-    !domText.toLowerCase().includes(bobOwn.name.toLowerCase()),
+    "partner character name is shown beside the character view",
+    (await alice.locator("[data-partner-character-name]").textContent())?.includes(bobOwn.name),
   );
   const partnerFileName = bobOwn.image_url.split("/").pop().split("?")[0];
   check(
@@ -246,6 +246,8 @@ async function main() {
   check("both opted-in players connect by video", videoConnected);
   check("local preview and remote video play", await alice.locator("video").count() >= 2);
   check("the partner's character is attached to incoming video", await alice.getByLabel("Their character card").isVisible());
+  check("character name stays outside the moving card", !(await alice.getByLabel("Their character card").textContent())?.includes(bobOwn.name));
+  check("character name remains visible during video", await alice.locator("[data-partner-character-name]").isVisible());
   const trackingReady = await alice.locator('[data-face-tracking="ready"]').waitFor({ timeout: 20000 })
     .then(() => true).catch(() => false);
   check("on-device face detector loads", trackingReady);
