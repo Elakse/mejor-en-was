@@ -1,0 +1,1733 @@
+{
+  "Ned Flanders": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/8/84/Ned_Flanders.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Ned_Flanders.png",
+    "page": "Ned Flanders",
+    "lic": "any"
+  },
+  "Groundskeeper Willie": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/d/dc/GroundskeeperWillie.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "GroundskeeperWillie.png",
+    "page": "Groundskeeper Willie",
+    "lic": "any"
+  },
+  "Krusty the Clown": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/5/5a/Krustytheclown.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Krustytheclown.png",
+    "page": "Krusty the Clown",
+    "lic": "any"
+  },
+  "Barney Gumble": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/d/de/Barney_Gumble.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Barney_Gumble.png",
+    "page": "Barney Gumble",
+    "lic": "any"
+  },
+  "Milhouse Van Houten": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/1/11/Milhouse_Van_Houten.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Milhouse_Van_Houten.png",
+    "page": "Milhouse Van Houten",
+    "lic": "any"
+  },
+  "Moe Szyslak": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/8/80/Moe_Szyslak.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Moe_Szyslak.png",
+    "page": "Moe Szyslak",
+    "lic": "any"
+  },
+  "Apu Nahasapeemapetilon": {
+    "src": null
+  },
+  "Chief Wiggum": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/7/7a/Chief_Wiggum.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Chief_Wiggum.png",
+    "page": "Chief Wiggum",
+    "lic": "any"
+  },
+  "Waylon Smithers": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/8/86/Waylon_Smithers_1.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Waylon_Smithers_1.png",
+    "page": "Waylon Smithers",
+    "lic": "any"
+  },
+  "Ralph Wiggum": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/1/14/Ralph_Wiggum.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Ralph_Wiggum.png",
+    "page": "Ralph Wiggum",
+    "lic": "any"
+  },
+  "Sideshow Bob": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/c/c8/C-bob.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "C-bob.png",
+    "page": "Sideshow Bob",
+    "lic": "any"
+  },
+  "Squidward Tentacles": {
+    "src": null
+  },
+  "Patrick Star": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/28/Patrick_Star_character.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Patrick_Star_character.png",
+    "page": "Patrick Star",
+    "lic": "free"
+  },
+  "Mr. Krabs": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Mr_Krabs_character.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Mr_Krabs_character.png",
+    "page": "Mr. Krabs",
+    "lic": "free"
+  },
+  "Sheldon J. Plankton": {
+    "src": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/49/Plankton_and_Karen.svg/960px-Plankton_and_Karen.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Plankton_and_Karen.svg",
+    "page": "Plankton and Karen",
+    "lic": "any"
+  },
+  "Sandy Cheeks": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/Sandy_Cheeks_%28transparent%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Sandy_Cheeks_(transparent).png",
+    "page": "Sandy Cheeks",
+    "lic": "free"
+  },
+  "Eric Cartman": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/7/77/EricCartman.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "EricCartman.png",
+    "page": "Eric Cartman",
+    "lic": "any"
+  },
+  "Kenny McCormick": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/6/6f/KennyMcCormick.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "KennyMcCormick.png",
+    "page": "Kenny McCormick",
+    "lic": "any"
+  },
+  "Butters Stotch": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/0/06/ButtersStotch.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "ButtersStotch.png",
+    "page": "Butters Stotch",
+    "lic": "any"
+  },
+  "Wendy Testaburger": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/a/ab/Wendy_South_Park.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Wendy_South_Park.png",
+    "page": "Wendy Testaburger",
+    "lic": "any"
+  },
+  "Rick Sanchez (Rick and Morty)": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/a/a6/Rick_Sanchez.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Rick_Sanchez.png",
+    "page": "Rick Sanchez",
+    "lic": "any"
+  },
+  "Morty Smith": {
+    "src": null
+  },
+  "Mr. Meeseeks": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/1/1d/Mr._Meeseeks.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Mr._Meeseeks.png",
+    "page": "Mr. Meeseeks",
+    "lic": "any"
+  },
+  "Birdperson": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/b/b0/Rick_and_Morty_characters.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Rick_and_Morty_characters.jpg",
+    "page": "List of Rick and Morty characters",
+    "lic": "any"
+  },
+  "Peter Griffin": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/c/c2/Peter_Griffin.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Peter_Griffin.png",
+    "page": "Peter Griffin",
+    "lic": "any"
+  },
+  "Stewie Griffin": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/0/02/Stewie_Griffin.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Stewie_Griffin.png",
+    "page": "Stewie Griffin",
+    "lic": "any"
+  },
+  "Glenn Quagmire": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/f/fe/Glenn_Quagmire.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Glenn_Quagmire.png",
+    "page": "Glenn Quagmire",
+    "lic": "any"
+  },
+  "Cleveland Brown": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/e/e4/Cleveland_Brown.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Cleveland_Brown.png",
+    "page": "Cleveland Brown",
+    "lic": "any"
+  },
+  "Brian Griffin": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/1/12/Brian_Griffin.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Brian_Griffin.png",
+    "page": "Brian Griffin",
+    "lic": "any"
+  },
+  "Bender (Futurama)": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/a/a6/Bender_Rodriguez.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Bender_Rodriguez.png",
+    "page": "Bender (Futurama)",
+    "lic": "any"
+  },
+  "Philip J. Fry": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/2/28/Philip_Fry.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Philip_Fry.png",
+    "page": "Philip J. Fry",
+    "lic": "any"
+  },
+  "Turanga Leela": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/d/d4/Turanga_Leela.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Turanga_Leela.png",
+    "page": "Leela (Futurama)",
+    "lic": "any"
+  },
+  "Doctor Zoidberg": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/4/4a/Dr_John_Zoidberg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Dr_John_Zoidberg.png",
+    "page": "Zoidberg",
+    "lic": "any"
+  },
+  "The Riddler": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/6/68/Riddler.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Riddler.png",
+    "page": "Riddler",
+    "lic": "any"
+  },
+  "The Penguin (character)": {
+    "src": null
+  },
+  "Catwoman": {
+    "src": "https://en.wikipedia.org/wiki/Special:FilePath/Adam%20Hughe's%20Catwoman.jpg?width=900",
+    "file": "Adam Hughe's Catwoman.jpg",
+    "lic": "free",
+    "page": "Catwoman"
+  },
+  "Poison Ivy (character)": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/5/5c/Poison_Ivy_Batman_Vol_3_26.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Poison_Ivy_Batman_Vol_3_26.png",
+    "page": "Poison Ivy (character)",
+    "lic": "any"
+  },
+  "Bane (DC Comics)": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/5/59/Bane_%28DC_Comics_character%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Bane_(DC_Comics_character).png",
+    "page": "Bane (DC Comics)",
+    "lic": "any"
+  },
+  "Scarecrow (DC Comics)": {
+    "src": "https://en.wikipedia.org/wiki/Special:FilePath/Asthecrowflies.jpg?width=900",
+    "file": "Asthecrowflies.jpg",
+    "lic": "free",
+    "page": "Scarecrow (DC Comics)"
+  },
+  "Two-Face": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/0/02/TwoFaceYearOne.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "TwoFaceYearOne.png",
+    "page": "Two-Face",
+    "lic": "any"
+  },
+  "Robin (character)": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/2/20/Robins_%28DC_Comics_characters%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Robins_(DC_Comics_characters).png",
+    "page": "Robin (character)",
+    "lic": "any"
+  },
+  "Alfred Pennyworth": {
+    "src": "https://en.wikipedia.org/wiki/Special:FilePath/Alfred%20Pennyworth%20(Earth%20One).jpg?width=900",
+    "file": "Alfred Pennyworth (Earth One).jpg",
+    "lic": "free",
+    "page": "Alfred Pennyworth"
+  },
+  "Selina Kyle": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/e/e4/Catwoman_Infobox.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Catwoman_Infobox.jpg",
+    "page": "Catwoman",
+    "lic": "any"
+  },
+  "Wolverine (character)": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/d/d3/Wolverine_%28circa_2024%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Wolverine_(circa_2024).jpg",
+    "page": "Wolverine (character)",
+    "lic": "any"
+  },
+  "Deadpool": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/c/ca/Deadpool.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Deadpool.png",
+    "page": "Deadpool",
+    "lic": "any"
+  },
+  "Magneto (Marvel Comics)": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/e/e9/Magneto_%28Marvel_Comics_character%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Magneto_(Marvel_Comics_character).jpg",
+    "page": "Magneto (Marvel Comics)",
+    "lic": "any"
+  },
+  "Mystique (Marvel Comics)": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/6/68/Mystique_%28circa_2020%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Mystique_(circa_2020).jpg",
+    "page": "Mystique (character)",
+    "lic": "any"
+  },
+  "Thanos": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/b/b7/Thanos_%28Infobox_image%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Thanos_(Infobox_image).png",
+    "page": "Thanos",
+    "lic": "any"
+  },
+  "Groot": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/3/3b/Groot.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Groot.png",
+    "page": "Groot",
+    "lic": "any"
+  },
+  "Rocket Raccoon": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/1/1b/Rocketraccoon.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Rocketraccoon.png",
+    "page": "Rocket Raccoon",
+    "lic": "any"
+  },
+  "Loki (Marvel Cinematic Universe)": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Tom_Hiddleston_by_Gage_Skidmore.jpg/960px-Tom_Hiddleston_by_Gage_Skidmore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Tom_Hiddleston_by_Gage_Skidmore.jpg",
+    "page": "Loki (Marvel Cinematic Universe)",
+    "lic": "free"
+  },
+  "Doctor Strange": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/4/4f/Doctor_Strange_Vol_4_2_Ross_Variant_Textless.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Doctor_Strange_Vol_4_2_Ross_Variant_Textless.jpg",
+    "page": "Doctor Strange",
+    "lic": "any"
+  },
+  "Hulk": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/a/aa/Hulk_%28circa_2019%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Hulk_(circa_2019).png",
+    "page": "Hulk",
+    "lic": "any"
+  },
+  "Thor (Marvel Cinematic Universe)": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/3/3c/Chris_Hemsworth_as_Thor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Chris_Hemsworth_as_Thor.jpg",
+    "page": "Thor (Marvel Cinematic Universe)",
+    "lic": "any"
+  },
+  "Spider-Man": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/2/21/Web_of_Spider-Man_Vol_1_129-1.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Web_of_Spider-Man_Vol_1_129-1.png",
+    "page": "Spider-Man",
+    "lic": "any"
+  },
+  "Gollum": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Gollum_at_Wellington_Airport.jpg/960px-Gollum_at_Wellington_Airport.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Gollum_at_Wellington_Airport.jpg",
+    "page": "Gollum",
+    "lic": "free"
+  },
+  "Gandalf": {
+    "src": "https://en.wikipedia.org/wiki/Special:FilePath/BakshiGandalf.JPG?width=900",
+    "file": "BakshiGandalf.JPG",
+    "lic": "free",
+    "page": "Gandalf"
+  },
+  "Frodo Baggins": {
+    "src": null
+  },
+  "Legolas": {
+    "src": null
+  },
+  "Aragorn": {
+    "src": null
+  },
+  "Gimli (Middle-earth)": {
+    "src": null
+  },
+  "Rubeus Hagrid": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/1/10/RubeusHagrid.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "RubeusHagrid.jpg",
+    "page": "Hagrid",
+    "lic": "any"
+  },
+  "Severus Snape": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/b/b9/Ootp076.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Ootp076.jpg",
+    "page": "Severus Snape",
+    "lic": "any"
+  },
+  "Dobby (Harry Potter)": {
+    "src": null
+  },
+  "Lord Voldemort": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/2/2a/Voldemort_book_and_film.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Voldemort_book_and_film.jpg",
+    "page": "Voldemort",
+    "lic": "any"
+  },
+  "Albus Dumbledore": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/e/e8/Dumbledore_-_Prisoner_of_Azkaban.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Dumbledore_-_Prisoner_of_Azkaban.jpg",
+    "page": "Albus Dumbledore",
+    "lic": "any"
+  },
+  "Minerva McGonagall": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/e/ea/McGonagall_%28screenshot%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "McGonagall_(screenshot).jpg",
+    "page": "Minerva McGonagall",
+    "lic": "any"
+  },
+  "Chewbacca": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/f/f1/Chewbacca.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Chewbacca.png",
+    "page": "Chewbacca",
+    "lic": "any"
+  },
+  "Yoda": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/9/9b/Yoda_Empire_Strikes_Back.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Yoda_Empire_Strikes_Back.png",
+    "page": "Yoda",
+    "lic": "any"
+  },
+  "Darth Maul": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/b/bb/MaulStarWars.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "MaulStarWars.jpg",
+    "page": "Darth Maul",
+    "lic": "any"
+  },
+  "Jabba the Hutt": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/5/53/Jabba_the_Hutt_in_Return_of_the_Jedi_%281983%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Jabba_the_Hutt_in_Return_of_the_Jedi_(1983).png",
+    "page": "Jabba the Hutt",
+    "lic": "any"
+  },
+  "R2-D2": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/61/Parents_of_Earth%2C_are_your_children_fully_immunized_%284647268251%29_%28cropped%29_auto_color_%28cropped_to_R2-D2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Parents_of_Earth,_are_your_children_fully_immunized_(4647268251)_(cropped)_auto_color_(cropped_to_R2-D2).jpg",
+    "page": "R2-D2",
+    "lic": "free"
+  },
+  "C-3PO": {
+    "src": null
+  },
+  "Grogu": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/a/a0/Grogu_%28Star_Wars%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Grogu_(Star_Wars).jpg",
+    "page": "Grogu",
+    "lic": "any"
+  },
+  "Darth Vader": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/0/0b/Darth_Vader_in_The_Empire_Strikes_Back.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Darth_Vader_in_The_Empire_Strikes_Back.jpg",
+    "page": "Darth Vader",
+    "lic": "any"
+  },
+  "Obi-Wan Kenobi": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/3/32/Ben_Kenobi.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Ben_Kenobi.png",
+    "page": "Obi-Wan Kenobi",
+    "lic": "any"
+  },
+  "Elmo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Red_puppet.jpg/500px-Red_puppet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Red_puppet.jpg",
+    "page": "Elmo",
+    "lic": "free"
+  },
+  "Cookie Monster": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/5/5e/Cisforcookie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Cisforcookie.jpg",
+    "page": "Cookie Monster",
+    "lic": "any"
+  },
+  "Oscar the Grouch": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/LBJ_Foundation_DIG14086-069_%2834650875314%29.jpg/960px-LBJ_Foundation_DIG14086-069_%2834650875314%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "LBJ_Foundation_DIG14086-069_(34650875314).jpg",
+    "page": "Oscar the Grouch",
+    "lic": "free"
+  },
+  "Count von Count": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/2/29/Count_von_Count_kneeling.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Count_von_Count_kneeling.png",
+    "page": "Count von Count",
+    "lic": "any"
+  },
+  "Big Bird": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Barbara_Bush_and_Big_Bird.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Barbara_Bush_and_Big_Bird.jpg",
+    "page": "Big Bird",
+    "lic": "free"
+  },
+  "Grover": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/b/be/Grover.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Grover.JPG",
+    "page": "Grover",
+    "lic": "any"
+  },
+  "Kermit the Frog": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Kermit_puppet.jpg/960px-Kermit_puppet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Kermit_puppet.jpg",
+    "page": "Kermit the Frog",
+    "lic": "free"
+  },
+  "Miss Piggy": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Miss_Piggy_puppet_1979.jpg/960px-Miss_Piggy_puppet_1979.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Miss_Piggy_puppet_1979.jpg",
+    "page": "Miss Piggy",
+    "lic": "free"
+  },
+  "Fozzie Bear": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/09/Fozzie_Bear_puppet_in_1979.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Fozzie_Bear_puppet_in_1979.jpg",
+    "page": "Fozzie Bear",
+    "lic": "free"
+  },
+  "Animal (Muppet)": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/e/e7/Animal_%28Muppet%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Animal_(Muppet).jpg",
+    "page": "Animal (Muppet)",
+    "lic": "any"
+  },
+  "Beaker (Muppet)": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/67/Beaker_Muppets.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Beaker_Muppets.png",
+    "page": "Beaker (Muppet)",
+    "lic": "free"
+  },
+  "Swedish Chef": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Swedish_Chef_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Swedish_Chef_(cropped).png",
+    "page": "Swedish Chef",
+    "lic": "free"
+  },
+  "Bert and Ernie": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/f/f1/Bert_and_Ernie.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Bert_and_Ernie.JPG",
+    "page": "Bert and Ernie",
+    "lic": "any"
+  },
+  "Winnie the Pooh": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Pooh_Shepard1928.jpg/960px-Pooh_Shepard1928.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Pooh_Shepard1928.jpg",
+    "page": "Winnie-the-Pooh",
+    "lic": "free"
+  },
+  "Tigger": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/3/34/Pooh_meets_Tigger%2C_illustration_by_EH_Shepard.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Pooh_meets_Tigger,_illustration_by_EH_Shepard.gif",
+    "page": "Tigger",
+    "lic": "free"
+  },
+  "Eeyore": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/67/Winnie-the-Pooh_166-1.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Winnie-the-Pooh_166-1.png",
+    "page": "Eeyore",
+    "lic": "free"
+  },
+  "Piglet (Winnie-the-Pooh)": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Piglet_EHShepard.jpg/960px-Piglet_EHShepard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Piglet_EHShepard.jpg",
+    "page": "Piglet (Winnie-the-Pooh)",
+    "lic": "free"
+  },
+  "Paddington Bear": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Paddington_Bear%2C_all_alone_%2850285504591%29.jpg/960px-Paddington_Bear%2C_all_alone_%2850285504591%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Paddington_Bear,_all_alone_(50285504591).jpg",
+    "page": "Paddington Bear",
+    "lic": "free"
+  },
+  "Wallace (Wallace and Gromit)": {
+    "src": null
+  },
+  "Gromit": {
+    "src": null
+  },
+  "Shaun the Sheep": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/4/4a/Shaun_the_Sheep.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Shaun_the_Sheep.png",
+    "page": "Shaun the Sheep",
+    "lic": "free"
+  },
+  "Thomas the Tank Engine": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/e/eb/Thomas_the_Tank_Engine_1946.webp?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Thomas_the_Tank_Engine_1946.webp",
+    "page": "Thomas the Tank Engine",
+    "lic": "any"
+  },
+  "Bob the Builder": {
+    "src": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c6/Bob_the_Builder_logo.svg/960px-Bob_the_Builder_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Bob_the_Builder_logo.svg",
+    "page": "Bob the Builder",
+    "lic": "free"
+  },
+  "Peppa Pig": {
+    "src": "https://en.wikipedia.org/wiki/Special:FilePath/PeppaPigAldridge2009.jpg?width=900",
+    "file": "PeppaPigAldridge2009.jpg",
+    "lic": "free",
+    "page": "Peppa Pig"
+  },
+  "Tinky Winky": {
+    "src": "https://thumb.wikimedia.org/wikipedia/en/thumb/5/5a/Teletubbies_Logo.png/960px-Teletubbies_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Teletubbies_Logo.png",
+    "page": "Teletubbies",
+    "lic": "free"
+  },
+  "Grinch": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/7/73/The_Grinch.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "The_Grinch.png",
+    "page": "Grinch",
+    "lic": "any"
+  },
+  "Jack Skellington": {
+    "src": null
+  },
+  "Olaf (Frozen)": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/6/6d/Olaf_from_Disney%27s_Frozen.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Olaf_from_Disney's_Frozen.png",
+    "page": "Olaf (Frozen)",
+    "lic": "any"
+  },
+  "Stay Puft Marshmallow Man": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/0/01/Mr._Stay-Puft_Marshmallow_Man.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Mr._Stay-Puft_Marshmallow_Man.png",
+    "page": "Stay Puft Marshmallow Man",
+    "lic": "any"
+  },
+  "Slimer": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/7/7c/Slimer_%28Ghostbusters_1984_film_character%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Slimer_(Ghostbusters_1984_film_character).png",
+    "page": "Slimer",
+    "lic": "any"
+  },
+  "Pennywise the Dancing Clown": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/5/52/Pennywise_Skarsgard_and_Curry.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Pennywise_Skarsgard_and_Curry.png",
+    "page": "Pennywise",
+    "lic": "any"
+  },
+  "Freddy Krueger": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/e/eb/Freddy_Krueger_%28Robert_Englund%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Freddy_Krueger_(Robert_Englund).jpg",
+    "page": "Freddy Krueger",
+    "lic": "any"
+  },
+  "Jason Voorhees": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/f/f7/Jason_Voorhees_%28Ken_Kirzinger%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Jason_Voorhees_(Ken_Kirzinger).jpg",
+    "page": "Jason Voorhees",
+    "lic": "any"
+  },
+  "Michael Myers (Halloween)": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/e/e9/MichaelMyers2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "MichaelMyers2018.jpg",
+    "page": "Michael Myers (Halloween)",
+    "lic": "any"
+  },
+  "Chucky (Child's Play)": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/3/38/Chucky_Appearance_%28TV_Series%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Chucky_Appearance_(TV_Series).jpeg",
+    "page": "Chucky (Child's Play)",
+    "lic": "any"
+  },
+  "Edward Scissorhands": {
+    "src": "https://en.wikipedia.org/wiki/Special:FilePath/Edwardscissorhands-img01.jpg?width=900",
+    "file": "Edwardscissorhands-img01.jpg",
+    "lic": "free",
+    "page": "Edward Scissorhands"
+  },
+  "Willy Wonka": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/43/Charlie_and_the_Chocolate_Factory_%281964%29_front_cover%2C_first_US_edition_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Charlie_and_the_Chocolate_Factory_(1964)_front_cover,_first_US_edition_(cropped).jpg",
+    "page": "Willy Wonka",
+    "lic": "free"
+  },
+  "Mary Poppins (character)": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/84/Mary_Poppins_screen_2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Mary_Poppins_screen_2_(cropped).jpg",
+    "page": "Mary Poppins (character)",
+    "lic": "free"
+  },
+  "Minions (Despicable Me)": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Minion_sculpture_in_Brisbane%2C_2024.jpg/960px-Minion_sculpture_in_Brisbane%2C_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Minion_sculpture_in_Brisbane,_2024.jpg",
+    "page": "Minions (Despicable Me)",
+    "lic": "free"
+  },
+  "Gru (Despicable Me)": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/0/09/Gru_from_DM4.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Gru_from_DM4.png",
+    "page": "Gru",
+    "lic": "any"
+  },
+  "Shrek (character)": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/4/4d/Shrek_%28character%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Shrek_(character).png",
+    "page": "Shrek (character)",
+    "lic": "any"
+  },
+  "Donkey (Shrek)": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/6/6c/Donkey_%28Shrek%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Donkey_(Shrek).png",
+    "page": "Donkey (Shrek)",
+    "lic": "any"
+  },
+  "Lord Farquaad": {
+    "src": null
+  },
+  "Puss in Boots (Shrek)": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/8/8a/Puss_in_Boots_from_Shrek.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Puss_in_Boots_from_Shrek.png",
+    "page": "Puss in Boots (Shrek)",
+    "lic": "any"
+  },
+  "WALL-E": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/4/4c/WALL-E_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "WALL-E_poster.jpg",
+    "page": "WALL-E",
+    "lic": "any"
+  },
+  "Eve (WALL-E)": {
+    "src": null
+  },
+  "Bumblebee (Transformers)": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/0/08/Bumblebee_IDW.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Bumblebee_IDW.jpg",
+    "page": "Bumblebee (Transformers)",
+    "lic": "any"
+  },
+  "Optimus Prime": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/b/b2/Optimusprime-originaltoy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Optimusprime-originaltoy.jpg",
+    "page": "Optimus Prime",
+    "lic": "any"
+  },
+  "Baymax": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/2/21/Baymax_%28Marvel_Comics%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Baymax_(Marvel_Comics).jpg",
+    "page": "Baymax",
+    "lic": "any"
+  },
+  "Stitch (Lilo & Stitch)": {
+    "src": "https://thumb.wikimedia.org/wikipedia/en/thumb/d/d2/Stitch_%28Lilo_%26_Stitch%29.svg/960px-Stitch_%28Lilo_%26_Stitch%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Stitch_(Lilo_&_Stitch).svg",
+    "page": "Stitch (Lilo & Stitch)",
+    "lic": "any"
+  },
+  "Buzz Lightyear": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Buzz_Lightyear_sculpture_of_Toy_Story_Hotel_Shanghai_%28cropped%29.jpg/960px-Buzz_Lightyear_sculpture_of_Toy_Story_Hotel_Shanghai_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Buzz_Lightyear_sculpture_of_Toy_Story_Hotel_Shanghai_(cropped).jpg",
+    "page": "Buzz Lightyear",
+    "lic": "free"
+  },
+  "Sheriff Woody": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Woody_at_Toy_Story_Land%2C_Hong_Kong.jpg/960px-Woody_at_Toy_Story_Land%2C_Hong_Kong.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Woody_at_Toy_Story_Land,_Hong_Kong.jpg",
+    "page": "Woody (Toy Story)",
+    "lic": "free"
+  },
+  "Mr. Potato Head": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Santa_Claus_Parade_%284107912568%29.jpg/960px-Santa_Claus_Parade_%284107912568%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Santa_Claus_Parade_(4107912568).jpg",
+    "page": "Mr. Potato Head",
+    "lic": "free"
+  },
+  "Lego minifigure": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/USD253711-2.png/960px-USD253711-2.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "USD253711-2.png",
+    "page": "Lego minifigure",
+    "lic": "free"
+  },
+  "Rich Uncle Pennybags": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Mr_Monopoly_A74006820250206_%28cropped%29.jpg/960px-Mr_Monopoly_A74006820250206_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Mr_Monopoly_A74006820250206_(cropped).jpg",
+    "page": "Mr. Monopoly",
+    "lic": "free"
+  },
+  "Bibendum": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Sign_for_Michelin_tyres.jpg/960px-Sign_for_Michelin_tyres.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Sign_for_Michelin_tyres.jpg",
+    "page": "Michelin Man",
+    "lic": "free"
+  },
+  "Mr. Peanut": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/6/6e/Mr_peanut.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Mr_peanut.png",
+    "page": "Mr. Peanut",
+    "lic": "any"
+  },
+  "Julius Pringles": {
+    "src": "https://en.wikipedia.org/wiki/Special:FilePath/Cosplay%20of%20Julius%20Pringles%20at%20Made%20in%20Asia%202022%20(52097485594).jpg?width=900",
+    "file": "Cosplay of Julius Pringles at Made in Asia 2022 (52097485594).jpg",
+    "lic": "free",
+    "page": "Pringles"
+  },
+  "Kool-Aid Man": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/c/c7/Kool-Aid_Man.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Kool-Aid_Man.png",
+    "page": "Kool-Aid Man",
+    "lic": "any"
+  },
+  "Mr. Clean": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Mr._Clean_Introduction_Advertisement_1958.webm/250px--Mr._Clean_Introduction_Advertisement_1958.webm.jpg",
+    "file": "Mr._Clean_Introduction_Advertisement_1958.webm",
+    "page": "Mr. Clean",
+    "lic": "free"
+  },
+  "Ronald McDonald": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Ronald_McDonald_cheers_during_the_Special_Olympics_opening_ceremony_at_Kadena_Air_Base_in_Okinawa%2C_Japan%2C_Nov_111105-F-ZT401-232_%28cropped%29.jpg/960px-Ronald_McDonald_cheers_during_the_Special_Olympics_opening_ceremony_at_Kadena_Air_Base_in_Okinawa%2C_Japan%2C_Nov_111105-F-ZT401-232_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Ronald_McDonald_cheers_during_the_Special_Olympics_opening_ceremony_at_Kadena_Air_Base_in_Okinawa,_Japan,_Nov_111105-F-ZT401-232_(cropped).jpg",
+    "page": "Ronald McDonald",
+    "lic": "free"
+  },
+  "Colonel Sanders": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/01/Colonel_Harland_Sanders_in_character_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Colonel_Harland_Sanders_in_character_(3x4_cropped).jpg",
+    "page": "Colonel Sanders",
+    "lic": "free"
+  },
+  "Tony the Tiger": {
+    "src": "https://en.wikipedia.org/wiki/Special:FilePath/Tony%20the%20Tiger%20(Kellogg's%20Frosted%20Flakes'%20mascot).jpg?width=900",
+    "file": "Tony the Tiger (Kellogg's Frosted Flakes' mascot).jpg",
+    "lic": "free",
+    "page": "Tony the Tiger"
+  },
+  "Chester Cheetah": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Chester_the_Cheetah_at_2024_MLK_Jr._Day_Parade_in_Houston.jpg/960px-Chester_the_Cheetah_at_2024_MLK_Jr._Day_Parade_in_Houston.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Chester_the_Cheetah_at_2024_MLK_Jr._Day_Parade_in_Houston.jpg",
+    "page": "Chester Cheetah",
+    "lic": "free"
+  },
+  "Lucky the Leprechaun": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/69/Lucky_charms_brand_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Lucky_charms_brand_logo.png",
+    "page": "Lucky Charms",
+    "lic": "free"
+  },
+  "The Noid": {
+    "src": null
+  },
+  "Duolingo": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/5/59/Duolingo_home_page.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Duolingo_home_page.png",
+    "page": "Duolingo",
+    "lic": "any"
+  },
+  "M&M's": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Plain-M%26Ms-Pile.jpg/960px-Plain-M%26Ms-Pile.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Plain-M&Ms-Pile.jpg",
+    "page": "M&M's",
+    "lic": "free"
+  },
+  "Waluigi": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/c/c1/Waluigi_by_Shigehisa_Nakaue.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Waluigi_by_Shigehisa_Nakaue.png",
+    "page": "Waluigi",
+    "lic": "any"
+  },
+  "Toad (Nintendo)": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/b/b9/Toad_by_Shigehisa_Nakaue.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Toad_by_Shigehisa_Nakaue.png",
+    "page": "Toad (Mario)",
+    "lic": "any"
+  },
+  "Bowser": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/d/d1/Bowser_by_Shigehisa_Nakaue.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Bowser_by_Shigehisa_Nakaue.png",
+    "page": "Bowser",
+    "lic": "any"
+  },
+  "Yoshi": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/d/db/Yoshi_%28Nintendo_character%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Yoshi_(Nintendo_character).png",
+    "page": "Yoshi",
+    "lic": "any"
+  },
+  "Kirby (character)": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/4/4e/Kirby_Nintendo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Kirby_Nintendo.png",
+    "page": "Kirby (character)",
+    "lic": "any"
+  },
+  "Wario": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/8/81/Wario.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Wario.png",
+    "page": "Wario",
+    "lic": "any"
+  },
+  "Donkey Kong (character)": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/d/d4/Donkey_Kong_character.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Donkey_Kong_character.png",
+    "page": "Donkey Kong (character)",
+    "lic": "any"
+  },
+  "Princess Peach": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/1/16/Princess_Peach_Stock_Art.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Princess_Peach_Stock_Art.png",
+    "page": "Princess Peach",
+    "lic": "any"
+  },
+  "Luigi": {
+    "src": null
+  },
+  "Rosalina (character)": {
+    "src": null
+  },
+  "Shy Guy": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/0/05/Shy_guy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Shy_guy.jpg",
+    "page": "Shy Guy",
+    "lic": "any"
+  },
+  "Koopa Troopa": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/5/5f/Koopa_Troopa_by_Shigehisa_Nakaue.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Koopa_Troopa_by_Shigehisa_Nakaue.png",
+    "page": "Koopa Troopa",
+    "lic": "any"
+  },
+  "Miles \"Tails\" Prower": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/1/1a/Miles_%22Tails%22_Prower_Sonic_and_All-Stars_Racing_Transformed.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Miles_\"Tails\"_Prower_Sonic_and_All-Stars_Racing_Transformed.png",
+    "page": "Tails (Sonic the Hedgehog)",
+    "lic": "any"
+  },
+  "Knuckles the Echidna": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/0/06/Knuckles_the_Echidna.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Knuckles_the_Echidna.png",
+    "page": "Knuckles the Echidna",
+    "lic": "any"
+  },
+  "Doctor Eggman": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/7/72/Doctor_EggmanSDT.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Doctor_EggmanSDT.png",
+    "page": "Doctor Eggman",
+    "lic": "any"
+  },
+  "Shadow the Hedgehog": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/4/41/ShadowTheHedgehogSA2.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "ShadowTheHedgehogSA2.png",
+    "page": "Shadow the Hedgehog",
+    "lic": "any"
+  },
+  "Amy Rose": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/8/85/MajorSonicCharacters.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "MajorSonicCharacters.png",
+    "page": "List of Sonic the Hedgehog characters",
+    "lic": "any"
+  },
+  "Psyduck": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/2/2d/Pok%C3%A9mon_Psyduck_art.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Pokémon_Psyduck_art.png",
+    "page": "Psyduck",
+    "lic": "any"
+  },
+  "Snorlax": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/3/3f/Pok%C3%A9mon_Snorlax_art.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Pokémon_Snorlax_art.png",
+    "page": "Snorlax",
+    "lic": "any"
+  },
+  "Magikarp": {
+    "src": "https://en.wikipedia.org/wiki/Special:FilePath/Magikarp%20Realistic.jpg?width=900",
+    "file": "Magikarp Realistic.jpg",
+    "lic": "free",
+    "page": "Magikarp and Gyarados"
+  },
+  "Jigglypuff": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/2/22/Pok%C3%A9mon_Jigglypuff_art.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Pokémon_Jigglypuff_art.png",
+    "page": "Jigglypuff",
+    "lic": "any"
+  },
+  "Meowth": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/9/99/Meowth.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Meowth.png",
+    "page": "Meowth",
+    "lic": "any"
+  },
+  "Bulbasaur": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/2/28/Pok%C3%A9mon_Bulbasaur_art.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Pokémon_Bulbasaur_art.png",
+    "page": "Bulbasaur",
+    "lic": "any"
+  },
+  "Charmander": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/5/56/Charmander.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Charmander.png",
+    "page": "Charmander",
+    "lic": "any"
+  },
+  "Gengar": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/b/bf/Pok%C3%A9mon_Gengar_art.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Pokémon_Gengar_art.png",
+    "page": "Gengar",
+    "lic": "any"
+  },
+  "Eevee": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/a/a9/Pok%C3%A9mon_Eevee_art.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Pokémon_Eevee_art.png",
+    "page": "Eevee",
+    "lic": "any"
+  },
+  "Slowpoke": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/4/43/Slowpoke_and_Galarian_Slowpoke.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Slowpoke_and_Galarian_Slowpoke.png",
+    "page": "Slowpoke",
+    "lic": "any"
+  },
+  "Creeper (Minecraft)": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Minecraft_Creeper_%28Crop%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Minecraft_Creeper_(Crop).png",
+    "page": "Creeper (Minecraft)",
+    "lic": "free"
+  },
+  "Steve (Minecraft)": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/e/e7/Steve_%28Minecraft%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Steve_(Minecraft).png",
+    "page": "Steve (Minecraft)",
+    "lic": "any"
+  },
+  "Among Us": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/9/9a/Among_Us_cover_art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Among_Us_cover_art.jpg",
+    "page": "Among Us",
+    "lic": "any"
+  },
+  "Pac-Man": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/1/16/Pac_flyer.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Pac_flyer.png",
+    "page": "Pac-Man",
+    "lic": "any"
+  },
+  "Crash Bandicoot": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/22/Crash_bandicoot_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Crash_bandicoot_logo.png",
+    "page": "Crash Bandicoot",
+    "lic": "free"
+  },
+  "Lara Croft": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/a/a8/LaraCroftInfobox.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "LaraCroftInfobox.png",
+    "page": "Lara Croft",
+    "lic": "any"
+  },
+  "Kratos (God of War)": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/2/2f/Kratos_PS4.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Kratos_PS4.png",
+    "page": "Kratos (God of War)",
+    "lic": "any"
+  },
+  "Master Chief (Halo)": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/4/42/Master_chief_halo_infinite.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Master_chief_halo_infinite.png",
+    "page": "Master Chief (Halo)",
+    "lic": "any"
+  },
+  "Geralt of Rivia": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/87/Geralt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Geralt.jpg",
+    "page": "Geralt of Rivia",
+    "lic": "free"
+  },
+  "Red (Angry Birds)": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/8/8b/Angry_Birds_Toons_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Angry_Birds_Toons_logo.png",
+    "page": "Angry Birds Toons",
+    "lic": "any"
+  },
+  "Fall Guys": {
+    "src": null
+  },
+  "Sackboy": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/1/19/SackboySony.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "SackboySony.png",
+    "page": "Sackboy",
+    "lic": "any"
+  },
+  "Danny DeVito": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Danny_DeVito_cropped_and_edited_for_brightness.jpg/960px-Danny_DeVito_cropped_and_edited_for_brightness.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Danny_DeVito_cropped_and_edited_for_brightness.jpg",
+    "page": "Danny DeVito",
+    "lic": "free"
+  },
+  "Nicolas Cage": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Nicolas_Cage_Deauville_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Nicolas_Cage_Deauville_2013.jpg",
+    "page": "Nicolas Cage",
+    "lic": "free"
+  },
+  "Jeff Goldblum": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Jeff_Goldblum_by_Gage_Skidmore_3.jpg/960px-Jeff_Goldblum_by_Gage_Skidmore_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Jeff_Goldblum_by_Gage_Skidmore_3.jpg",
+    "page": "Jeff Goldblum",
+    "lic": "free"
+  },
+  "Steve Buscemi": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/SteveBuscemi-byPhilipRomano.jpg/960px-SteveBuscemi-byPhilipRomano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "SteveBuscemi-byPhilipRomano.jpg",
+    "page": "Steve Buscemi",
+    "lic": "free"
+  },
+  "Bill Murray": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Bill_Murray_at_the_2025_Sundance_Film_Festival_2_%28cropped%29.jpg/960px-Bill_Murray_at_the_2025_Sundance_Film_Festival_2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Bill_Murray_at_the_2025_Sundance_Film_Festival_2_(cropped).jpg",
+    "page": "Bill Murray",
+    "lic": "free"
+  },
+  "Samuel L. Jackson": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Samuel_L._Jackson_attending_the_World_premier_of_%22Argylle%22_in_London_%2C_January_2024_%28cropped2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Samuel_L._Jackson_attending_the_World_premier_of_\"Argylle\"_in_London_,_January_2024_(cropped2).jpg",
+    "page": "Samuel L. Jackson",
+    "lic": "free"
+  },
+  "Arnold Schwarzenegger": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Arnold_Schwarzenegger_-_Austrian_World_Summit_2026_BHO-2906.jpg/960px-Arnold_Schwarzenegger_-_Austrian_World_Summit_2026_BHO-2906.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Arnold_Schwarzenegger_-_Austrian_World_Summit_2026_BHO-2906.jpg",
+    "page": "Arnold Schwarzenegger",
+    "lic": "free"
+  },
+  "Jack Black": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/92/TenaciousDO2160623_%2838_of_62%29_Jack_Black.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "TenaciousDO2160623_(38_of_62)_Jack_Black.jpg",
+    "page": "Jack Black",
+    "lic": "free"
+  },
+  "Seth Rogen": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Seth_Rogen_at_Toronto_International_Film_Festival_2026_-_8.jpg/960px-Seth_Rogen_at_Toronto_International_Film_Festival_2026_-_8.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Seth_Rogen_at_Toronto_International_Film_Festival_2026_-_8.jpg",
+    "page": "Seth Rogen",
+    "lic": "free"
+  },
+  "Snoop Dogg": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Snoop_Dogg%2C_WrestleMania_XL_%28cropped%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Snoop_Dogg,_WrestleMania_XL_(cropped)_(cropped).jpg",
+    "page": "Snoop Dogg",
+    "lic": "free"
+  },
+  "Ozzy Osbourne": {
+    "src": "https://en.wikipedia.org/wiki/Special:FilePath/Ozzy%20Osbourne%20in%201980%20from%20Blizzard%20of%20Ozz%20(cropped%20close-up).jpg?width=900",
+    "file": "Ozzy Osbourne in 1980 from Blizzard of Ozz (cropped close-up).jpg",
+    "lic": "free",
+    "page": "Ozzy Osbourne"
+  },
+  "Elton John": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/61/EltonDocBFILFF101024_%284_of_17%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "EltonDocBFILFF101024_(4_of_17)_(cropped).jpg",
+    "page": "Elton John",
+    "lic": "free"
+  },
+  "Freddie Mercury": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Freddie_Mercury_performing_in_New_Haven%2C_CT%2C_November_1977.jpg/960px-Freddie_Mercury_performing_in_New_Haven%2C_CT%2C_November_1977.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Freddie_Mercury_performing_in_New_Haven,_CT,_November_1977.jpg",
+    "page": "Freddie Mercury",
+    "lic": "free"
+  },
+  "Mick Jagger": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/RStonesHydePark030722_%2849_of_125%29_%2852193656268%29_%28cropped%29.jpg/960px-RStonesHydePark030722_%2849_of_125%29_%2852193656268%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "RStonesHydePark030722_(49_of_125)_(52193656268)_(cropped).jpg",
+    "page": "Mick Jagger",
+    "lic": "free"
+  },
+  "Bob Marley": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Bob_Marley_circa_1976_%28cropped%29.jpg/960px-Bob_Marley_circa_1976_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Bob_Marley_circa_1976_(cropped).jpg",
+    "page": "Bob Marley",
+    "lic": "free"
+  },
+  "David Bowie": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e8/David-Bowie_Chicago_2002-08-08_photoby_Adam-Bielawski-cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "David-Bowie_Chicago_2002-08-08_photoby_Adam-Bielawski-cropped.jpg",
+    "page": "David Bowie",
+    "lic": "free"
+  },
+  "Albert Einstein": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Albert_Einstein_Head_cleaned.jpg/960px-Albert_Einstein_Head_cleaned.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Albert_Einstein_Head_cleaned.jpg",
+    "page": "Albert Einstein",
+    "lic": "free"
+  },
+  "Nikola Tesla": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/79/Tesla_circa_1890.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Tesla_circa_1890.jpeg",
+    "page": "Nikola Tesla",
+    "lic": "free"
+  },
+  "Marie Curie": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Marie_Curie_c._1920s.jpg/960px-Marie_Curie_c._1920s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Marie_Curie_c._1920s.jpg",
+    "page": "Marie Curie",
+    "lic": "free"
+  },
+  "Frida Kahlo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Frida_Kahlo%2C_by_Guillermo_Kahlo.jpg/960px-Frida_Kahlo%2C_by_Guillermo_Kahlo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Frida_Kahlo,_by_Guillermo_Kahlo.jpg",
+    "page": "Frida Kahlo",
+    "lic": "free"
+  },
+  "Vincent van Gogh": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_%28454045%29.jpg/960px-Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_%28454045%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_(454045).jpg",
+    "page": "Vincent van Gogh",
+    "lic": "free"
+  },
+  "Salvador Dalí": {
+    "src": "https://en.wikipedia.org/wiki/Special:FilePath/Salvador%20Dali%20NYWTS.jpg?width=900",
+    "file": "Salvador Dali NYWTS.jpg",
+    "lic": "free",
+    "page": "Salvador Dalí"
+  },
+  "Charlie Chaplin": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Charlie_Chaplin_portrait_Getty_1739411952.jpg/960px-Charlie_Chaplin_portrait_Getty_1739411952.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Charlie_Chaplin_portrait_Getty_1739411952.jpg",
+    "page": "Charlie Chaplin",
+    "lic": "free"
+  },
+  "Napoleon": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg/960px-Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg",
+    "page": "Napoleon",
+    "lic": "free"
+  },
+  "Cleopatra": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Kleopatra-VII.-Altes-Museum-Berlin1.jpg/960px-Kleopatra-VII.-Altes-Museum-Berlin1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Kleopatra-VII.-Altes-Museum-Berlin1.jpg",
+    "page": "Cleopatra",
+    "lic": "free"
+  },
+  "Julius Caesar": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg/960px-Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Retrato_de_Julio_César_(26724093101)_(cropped).jpg",
+    "page": "Julius Caesar",
+    "lic": "free"
+  },
+  "Elizabeth II": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Queen_Elizabeth_II_official_portrait_for_1959_tour_(retouched)_(cropped)_(3-to-4_aspect_ratio).jpg",
+    "page": "Elizabeth II",
+    "lic": "free"
+  },
+  "Barack Obama": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/960px-President_Barack_Obama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "President_Barack_Obama.jpg",
+    "page": "Barack Obama",
+    "lic": "free"
+  },
+  "Donald Trump": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/960px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg",
+    "page": "Donald Trump",
+    "lic": "free"
+  },
+  "Elon Musk": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Elon_Musk_-_54820081119_%28cropped%29.jpg/960px-Elon_Musk_-_54820081119_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Elon_Musk_-_54820081119_(cropped).jpg",
+    "page": "Elon Musk",
+    "lic": "free"
+  },
+  "Steve Jobs": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Steve_Jobs_Headshot_2010_%28cropped_4%29.jpg/960px-Steve_Jobs_Headshot_2010_%28cropped_4%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Steve_Jobs_Headshot_2010_(cropped_4).jpg",
+    "page": "Steve Jobs",
+    "lic": "free"
+  },
+  "Bill Gates": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Bill_Gates_at_the_European_Commission_-_P067383-987995_%28cropped%29_5.jpg/960px-Bill_Gates_at_the_European_Commission_-_P067383-987995_%28cropped%29_5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Bill_Gates_at_the_European_Commission_-_P067383-987995_(cropped)_5.jpg",
+    "page": "Bill Gates",
+    "lic": "free"
+  },
+  "Greta Thunberg": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Greta_Thunberg_in_May_2026.jpg/960px-Greta_Thunberg_in_May_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Greta_Thunberg_in_May_2026.jpg",
+    "page": "Greta Thunberg",
+    "lic": "free"
+  },
+  "Cristiano Ronaldo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg/960px-Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_(cropped).jpg",
+    "page": "Cristiano Ronaldo",
+    "lic": "free"
+  },
+  "Lionel Messi": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg/960px-Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg",
+    "page": "Lionel Messi",
+    "lic": "free"
+  },
+  "Diego Maradona": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/48/Argentina_celebrando_copa_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Argentina_celebrando_copa_(cropped).jpg",
+    "page": "Diego Maradona",
+    "lic": "free"
+  },
+  "Mike Tyson": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Mike_Tyson_Photo_Op_GalaxyCon_Austin_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Mike_Tyson_Photo_Op_GalaxyCon_Austin_2023.jpg",
+    "page": "Mike Tyson",
+    "lic": "free"
+  },
+  "Muhammad Ali": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Muhammad_Ali_NYWTS.jpg/960px-Muhammad_Ali_NYWTS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Muhammad_Ali_NYWTS.jpg",
+    "page": "Muhammad Ali",
+    "lic": "free"
+  },
+  "Bruce Lee": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Bruce_Lee_as_Chen_Zhen_%284x5_cropped%29.jpg/960px-Bruce_Lee_as_Chen_Zhen_%284x5_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Bruce_Lee_as_Chen_Zhen_(4x5_cropped).jpg",
+    "page": "Bruce Lee",
+    "lic": "free"
+  },
+  "Jackie Chan": {
+    "src": "https://en.wikipedia.org/wiki/Special:FilePath/Jackie%20Chan%20Berlinale%202010.jpg?width=900",
+    "file": "Jackie Chan Berlinale 2010.jpg",
+    "lic": "free",
+    "page": "Jackie Chan"
+  },
+  "MrBeast": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/MrBeast_in_2026_%28cropped_4%29.png/960px-MrBeast_in_2026_%28cropped_4%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "MrBeast_in_2026_(cropped_4).png",
+    "page": "MrBeast",
+    "lic": "free"
+  },
+  "Taylor Swift": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Taylor_Swift_at_the_2023_MTV_Video_Music_Awards_%283%29.png/960px-Taylor_Swift_at_the_2023_MTV_Video_Music_Awards_%283%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Taylor_Swift_at_the_2023_MTV_Video_Music_Awards_(3).png",
+    "page": "Taylor Swift",
+    "lic": "free"
+  },
+  "Beyoncé": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Beyonc%C3%A9_-_Tottenham_Hotspur_Stadium_-_1st_June_2023_%2810_of_118%29_%2852946364598%29_%28best_crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Beyoncé_-_Tottenham_Hotspur_Stadium_-_1st_June_2023_(10_of_118)_(52946364598)_(best_crop).jpg",
+    "page": "Beyoncé",
+    "lic": "free"
+  },
+  "Lady Gaga": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Lady_Gaga_at_Joe_Biden%27s_inauguration_%28cropped_5%29.jpg/960px-Lady_Gaga_at_Joe_Biden%27s_inauguration_%28cropped_5%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Lady_Gaga_at_Joe_Biden's_inauguration_(cropped_5).jpg",
+    "page": "Lady Gaga",
+    "lic": "free"
+  },
+  "Billie Eilish": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c7/BillieEilishO2140725-39_-_54665577407_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "BillieEilishO2140725-39_-_54665577407_(cropped).jpg",
+    "page": "Billie Eilish",
+    "lic": "free"
+  },
+  "Drake (musician)": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/15/Drake_at_The_Carter_Effect_2017_%2836818935200%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Drake_at_The_Carter_Effect_2017_(36818935200)_(cropped).jpg",
+    "page": "Drake (musician)",
+    "lic": "free"
+  },
+  "Bad Bunny": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Bad_Bunny_2019_by_Glenn_Francis_%28cropped%29.jpg/960px-Bad_Bunny_2019_by_Glenn_Francis_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Bad_Bunny_2019_by_Glenn_Francis_(cropped).jpg",
+    "page": "Bad Bunny",
+    "lic": "free"
+  },
+  "Shakira": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/2023-11-16_Gala_de_los_Latin_Grammy%2C_03_%28cropped%2902.jpg/960px-2023-11-16_Gala_de_los_Latin_Grammy%2C_03_%28cropped%2902.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "2023-11-16_Gala_de_los_Latin_Grammy,_03_(cropped)02.jpg",
+    "page": "Shakira",
+    "lic": "free"
+  },
+  "Bob Ross": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/87/Bob_Ross_publicity_photo_%28c._1982%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Bob_Ross_publicity_photo_(c._1982)_(cropped).jpg",
+    "page": "Bob Ross",
+    "lic": "free"
+  },
+  "Gordon Ramsay": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/96/Gordon_Ramsay_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Gordon_Ramsay_(cropped).jpg",
+    "page": "Gordon Ramsay",
+    "lic": "free"
+  },
+  "Mr. Bean": {
+    "src": "https://en.wikipedia.org/wiki/Special:FilePath/Atkinson%20Rowan%20crop.jpg?width=900",
+    "file": "Atkinson Rowan crop.jpg",
+    "lic": "free",
+    "page": "Mr. Bean"
+  },
+  "Keanu Reeves": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Keanu_Reeves_at_TIFF_2025_02_%28Cropped%29.jpg/960px-Keanu_Reeves_at_TIFF_2025_02_%28Cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Keanu_Reeves_at_TIFF_2025_02_(Cropped).jpg",
+    "page": "Keanu Reeves",
+    "lic": "free"
+  },
+  "Dwayne Johnson": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Dwayne_Johnson-1764_%284x5_cropped_with_moderate_headroom%29.jpg/960px-Dwayne_Johnson-1764_%284x5_cropped_with_moderate_headroom%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Dwayne_Johnson-1764_(4x5_cropped_with_moderate_headroom).jpg",
+    "page": "Dwayne Johnson",
+    "lic": "free"
+  },
+  "Pedro Pascal": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Pedro_Pascal_at_the_2025_Cannes_Film_Festival_04.jpg/960px-Pedro_Pascal_at_the_2025_Cannes_Film_Festival_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Pedro_Pascal_at_the_2025_Cannes_Film_Festival_04.jpg",
+    "page": "Pedro Pascal",
+    "lic": "free"
+  },
+  "Ryan Reynolds": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Deadpool_2_Japan_Premiere_Red_Carpet_Ryan_Reynolds_%28cropped%29.jpg/960px-Deadpool_2_Japan_Premiere_Red_Carpet_Ryan_Reynolds_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Deadpool_2_Japan_Premiere_Red_Carpet_Ryan_Reynolds_(cropped).jpg",
+    "page": "Ryan Reynolds",
+    "lic": "free"
+  },
+  "Gal Gadot": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Gal_Gadot_by_Gage_Skidmore_3.jpg/960px-Gal_Gadot_by_Gage_Skidmore_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Gal_Gadot_by_Gage_Skidmore_3.jpg",
+    "page": "Gal Gadot",
+    "lic": "free"
+  },
+  "Margot Robbie": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Margot_Robbie_at_the_Paris_premiere_of_%22Wuthering_Heights%22.jpg/960px-Margot_Robbie_at_the_Paris_premiere_of_%22Wuthering_Heights%22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Margot_Robbie_at_the_Paris_premiere_of_\"Wuthering_Heights\".jpg",
+    "page": "Margot Robbie",
+    "lic": "free"
+  },
+  "Zendaya": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Zendaya-byPhilipRomano.jpg/960px-Zendaya-byPhilipRomano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Zendaya-byPhilipRomano.jpg",
+    "page": "Zendaya",
+    "lic": "free"
+  },
+  "Tom Holland": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/TomHolland-byPhilipRomano.jpg/960px-TomHolland-byPhilipRomano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "TomHolland-byPhilipRomano.jpg",
+    "page": "Tom Holland",
+    "lic": "free"
+  },
+  "Will Smith": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/TechCrunch_Disrupt_San_Francisco_2019_-_Day_1_%2848834070763%29_%28cropped%29.jpg/960px-TechCrunch_Disrupt_San_Francisco_2019_-_Day_1_%2848834070763%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "TechCrunch_Disrupt_San_Francisco_2019_-_Day_1_(48834070763)_(cropped).jpg",
+    "page": "Will Smith",
+    "lic": "free"
+  },
+  "Robert Downey Jr.": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/RobertDowneyJr-byPhilipRomano7_%28cropped%29.jpg/960px-RobertDowneyJr-byPhilipRomano7_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "RobertDowneyJr-byPhilipRomano7_(cropped).jpg",
+    "page": "Robert Downey Jr.",
+    "lic": "free"
+  },
+  "Chris Hemsworth": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Chris_Hemsworth_-_Crime_101.jpg/960px-Chris_Hemsworth_-_Crime_101.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Chris_Hemsworth_-_Crime_101.jpg",
+    "page": "Chris Hemsworth",
+    "lic": "free"
+  },
+  "Morgan Freeman": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Morgan_Freeman_at_The_Pentagon_on_2_August_2023_-_230802-D-PM193-3363_%28cropped%29.jpg/960px-Morgan_Freeman_at_The_Pentagon_on_2_August_2023_-_230802-D-PM193-3363_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Morgan_Freeman_at_The_Pentagon_on_2_August_2023_-_230802-D-PM193-3363_(cropped).jpg",
+    "page": "Morgan Freeman",
+    "lic": "free"
+  },
+  "Leonardo DiCaprio": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/2d/LeoPTABFI191125-28_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "LeoPTABFI191125-28_(cropped).jpg",
+    "page": "Leonardo DiCaprio",
+    "lic": "free"
+  },
+  "Brad Pitt": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Brad_Pitt-69858.jpg/960px-Brad_Pitt-69858.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Brad_Pitt-69858.jpg",
+    "page": "Brad Pitt",
+    "lic": "free"
+  },
+  "Jennifer Aniston": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/16/JenniferAnistonHWoFFeb2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "JenniferAnistonHWoFFeb2012.jpg",
+    "page": "Jennifer Aniston",
+    "lic": "free"
+  },
+  "Ariana Grande": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Ariana_Grande_promoting_Wicked_%282024%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Ariana_Grande_promoting_Wicked_(2024).jpg",
+    "page": "Ariana Grande",
+    "lic": "free"
+  },
+  "Ed Sheeran": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Ed_Sheeran-6886_%28cropped%29.jpg/960px-Ed_Sheeran-6886_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Ed_Sheeran-6886_(cropped).jpg",
+    "page": "Ed Sheeran",
+    "lic": "free"
+  },
+  "Adele": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Adele_2016.jpg/960px-Adele_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Adele_2016.jpg",
+    "page": "Adele",
+    "lic": "free"
+  },
+  "Rihanna": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Rihanna_Fenty_2018.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Rihanna_Fenty_2018.png",
+    "page": "Rihanna",
+    "lic": "free"
+  },
+  "Kim Kardashian": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Kim_Kardashian_West_2014.jpg/960px-Kim_Kardashian_West_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Kim_Kardashian_West_2014.jpg",
+    "page": "Kim Kardashian",
+    "lic": "free"
+  },
+  "Kanye West": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Kanye_West_at_the_2009_Tribeca_Film_Festival_%28crop_2%29.jpg/960px-Kanye_West_at_the_2009_Tribeca_Film_Festival_%28crop_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Kanye_West_at_the_2009_Tribeca_Film_Festival_(crop_2).jpg",
+    "page": "Kanye West",
+    "lic": "free"
+  },
+  "Kobe Bryant": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Kobe_Bryant_Dec_2014.jpg/960px-Kobe_Bryant_Dec_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Kobe_Bryant_Dec_2014.jpg",
+    "page": "Kobe Bryant",
+    "lic": "free"
+  },
+  "LeBron James": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/LeBron_James_%2851959977144%29_%28cropped2%29.jpg/960px-LeBron_James_%2851959977144%29_%28cropped2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "LeBron_James_(51959977144)_(cropped2).jpg",
+    "page": "LeBron James",
+    "lic": "free"
+  },
+  "Serena Williams": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Serena-Smiling-2020.png/960px-Serena-Smiling-2020.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Serena-Smiling-2020.png",
+    "page": "Serena Williams",
+    "lic": "free"
+  },
+  "Usain Bolt": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Usain_Bolt_smiling_Berlin_2009.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Usain_Bolt_smiling_Berlin_2009.JPG",
+    "page": "Usain Bolt",
+    "lic": "free"
+  },
+  "Vladimir Putin": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D1%83%D1%82%D0%B8%D0%BD_%2808-03-2024%29_%28cropped%29_%28higher_res%29_2.jpg/960px-%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D1%83%D1%82%D0%B8%D0%BD_%2808-03-2024%29_%28cropped%29_%28higher_res%29_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Владимир_Путин_(08-03-2024)_(cropped)_(higher_res)_2.jpg",
+    "page": "Vladimir Putin",
+    "lic": "free"
+  },
+  "Kim Jong-un": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Kim_Jong-un_and_Vladimir_Putin_%282023-09-13%29_12_%28cropped_2%29.jpg/960px-Kim_Jong-un_and_Vladimir_Putin_%282023-09-13%29_12_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Kim_Jong-un_and_Vladimir_Putin_(2023-09-13)_12_(cropped_2).jpg",
+    "page": "Kim Jong Un",
+    "lic": "free"
+  },
+  "Pope Francis": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Pope_Francis_Korea_Haemi_Castle_19_%284x5_cropped%29.jpg/960px-Pope_Francis_Korea_Haemi_Castle_19_%284x5_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Pope_Francis_Korea_Haemi_Castle_19_(4x5_cropped).jpg",
+    "page": "Pope Francis",
+    "lic": "free"
+  },
+  "14th Dalai Lama": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/The_Dalai_Lama_in_2012.jpg/960px-The_Dalai_Lama_in_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "The_Dalai_Lama_in_2012.jpg",
+    "page": "14th Dalai Lama",
+    "lic": "free"
+  },
+  "Mark Zuckerberg": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/0e/F20250904AH-2824_%2854778373111%29_%283x4_cropped_on_Zuckerberg_following_the_rule_of_thirds%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "F20250904AH-2824_(54778373111)_(3x4_cropped_on_Zuckerberg_following_the_rule_of_thirds).jpg",
+    "page": "Mark Zuckerberg",
+    "lic": "free"
+  },
+  "Jeff Bezos": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/260202-D-PM193-2205_SECWAR_Arsenal_of_Freedom_Tour_-_Florida_%283x4_cropped_on_Bezos_and_rotated%29.jpg/960px-260202-D-PM193-2205_SECWAR_Arsenal_of_Freedom_Tour_-_Florida_%283x4_cropped_on_Bezos_and_rotated%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "260202-D-PM193-2205_SECWAR_Arsenal_of_Freedom_Tour_-_Florida_(3x4_cropped_on_Bezos_and_rotated).jpg",
+    "page": "Jeff Bezos",
+    "lic": "free"
+  },
+  "Warren Buffett": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit_(cropped).jpg",
+    "page": "Warren Buffett",
+    "lic": "free"
+  },
+  "Angela Merkel": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Angela_Merkel_2019_cropped.jpg/960px-Angela_Merkel_2019_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Angela_Merkel_2019_cropped.jpg",
+    "page": "Angela Merkel",
+    "lic": "free"
+  },
+  "Michael Jackson": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Michael_Jackson_1983_%283x4_cropped%29_%28contrast%29.jpg/960px-Michael_Jackson_1983_%283x4_cropped%29_%28contrast%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Michael_Jackson_1983_(3x4_cropped)_(contrast).jpg",
+    "page": "Michael Jackson",
+    "lic": "free"
+  },
+  "Elvis Presley": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Elvis_Presley_promoting_Jailhouse_Rock.jpg/960px-Elvis_Presley_promoting_Jailhouse_Rock.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Elvis_Presley_promoting_Jailhouse_Rock.jpg",
+    "page": "Elvis Presley",
+    "lic": "free"
+  },
+  "John Lennon": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/John_Lennon_%22Walls_and_Bridges%22_1974_press_photo_2_%28color%29_%28cropped%29.jpg/960px-John_Lennon_%22Walls_and_Bridges%22_1974_press_photo_2_%28color%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "John_Lennon_\"Walls_and_Bridges\"_1974_press_photo_2_(color)_(cropped).jpg",
+    "page": "John Lennon",
+    "lic": "free"
+  },
+  "Kurt Cobain": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/37/Nirvana_around_1992_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Nirvana_around_1992_(cropped).jpg",
+    "page": "Kurt Cobain",
+    "lic": "free"
+  },
+  "Amy Winehouse": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Amy_Winehouse_f4962007_crop.jpg/960px-Amy_Winehouse_f4962007_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Amy_Winehouse_f4962007_crop.jpg",
+    "page": "Amy Winehouse",
+    "lic": "free"
+  },
+  "Marilyn Monroe": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Monroecirca1953.jpg/960px-Monroecirca1953.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Monroecirca1953.jpg",
+    "page": "Marilyn Monroe",
+    "lic": "free"
+  },
+  "Audrey Hepburn": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/AudreyKHepburn.jpg/960px-AudreyKHepburn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "AudreyKHepburn.jpg",
+    "page": "Audrey Hepburn",
+    "lic": "free"
+  },
+  "Mr. T": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/43/Mr_T_WWE_Hall_of_Fame_2014_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Mr_T_WWE_Hall_of_Fame_2014_(cropped).jpg",
+    "page": "Mr. T",
+    "lic": "free"
+  },
+  "Sylvester Stallone": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/12/P20251206DT-0472_%283x4_cropped_on_Stallone_with_moderate_headroom%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "P20251206DT-0472_(3x4_cropped_on_Stallone_with_moderate_headroom).jpg",
+    "page": "Sylvester Stallone",
+    "lic": "free"
+  },
+  "Danny Trejo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Danny_Trejo_Photo_Op_GalaxyCon_Oklahoma_City_2025.jpg/960px-Danny_Trejo_Photo_Op_GalaxyCon_Oklahoma_City_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Danny_Trejo_Photo_Op_GalaxyCon_Oklahoma_City_2025.jpg",
+    "page": "Danny Trejo",
+    "lic": "free"
+  },
+  "Walt Disney": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/50/Walt_Disney_1946_%28cropped2%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Walt_Disney_1946_(cropped2).JPG",
+    "page": "Walt Disney",
+    "lic": "free"
+  },
+  "Stephen Hawking": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Stephen_Hawking.StarChild.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Stephen_Hawking.StarChild.jpg",
+    "page": "Stephen Hawking",
+    "lic": "free"
+  },
+  "Amelia Earhart": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/72/Amelia_Earhart_standing_under_nose_of_her_Lockheed_Model_10-E_Electra%2C_small_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Amelia_Earhart_standing_under_nose_of_her_Lockheed_Model_10-E_Electra,_small_(cropped).jpg",
+    "page": "Amelia Earhart",
+    "lic": "free"
+  },
+  "Neil Armstrong": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Neil_Armstrong_pose.jpg/960px-Neil_Armstrong_pose.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Neil_Armstrong_pose.jpg",
+    "page": "Neil Armstrong",
+    "lic": "free"
+  },
+  "Yuri Gagarin": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Yuri_Gagarin_with_awards_%28cropped%29_2.jpg/960px-Yuri_Gagarin_with_awards_%28cropped%29_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Yuri_Gagarin_with_awards_(cropped)_2.jpg",
+    "page": "Yuri Gagarin",
+    "lic": "free"
+  },
+  "Che Guevara": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Che_Guevara_-_Guerrillero_Heroico_by_Alberto_Korda.jpg/960px-Che_Guevara_-_Guerrillero_Heroico_by_Alberto_Korda.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Che_Guevara_-_Guerrillero_Heroico_by_Alberto_Korda.jpg",
+    "page": "Che Guevara",
+    "lic": "free"
+  },
+  "Wolfgang Amadeus Mozart": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/The_Mozart_Family_-_Wolfgang_Amadeus_Mozart_headshot.jpg/960px-The_Mozart_Family_-_Wolfgang_Amadeus_Mozart_headshot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "The_Mozart_Family_-_Wolfgang_Amadeus_Mozart_headshot.jpg",
+    "page": "Wolfgang Amadeus Mozart",
+    "lic": "free"
+  },
+  "Ludwig van Beethoven": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Joseph_Karl_Stieler%27s_Beethoven_mit_dem_Manuskript_der_Missa_solemnis.jpg/960px-Joseph_Karl_Stieler%27s_Beethoven_mit_dem_Manuskript_der_Missa_solemnis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Joseph_Karl_Stieler's_Beethoven_mit_dem_Manuskript_der_Missa_solemnis.jpg",
+    "page": "Ludwig van Beethoven",
+    "lic": "free"
+  },
+  "William Shakespeare": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/William_Shakespeare_by_John_Taylor%2C_edited.jpg/960px-William_Shakespeare_by_John_Taylor%2C_edited.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "William_Shakespeare_by_John_Taylor,_edited.jpg",
+    "page": "William Shakespeare",
+    "lic": "free"
+  },
+  "Isaac Newton": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Portrait_of_Sir_Isaac_Newton%2C_1689_%28brightened%29.jpg/960px-Portrait_of_Sir_Isaac_Newton%2C_1689_%28brightened%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Portrait_of_Sir_Isaac_Newton,_1689_(brightened).jpg",
+    "page": "Isaac Newton",
+    "lic": "free"
+  },
+  "Charles Darwin": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Charles_Darwin_seated_crop.jpg/960px-Charles_Darwin_seated_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Charles_Darwin_seated_crop.jpg",
+    "page": "Charles Darwin",
+    "lic": "free"
+  },
+  "Stephen King": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_%28cropped%29.jpg/960px-Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg",
+    "page": "Stephen King",
+    "lic": "free"
+  },
+  "Quentin Tarantino": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Quentin_Tarantino_by_Gage_Skidmore.jpg/960px-Quentin_Tarantino_by_Gage_Skidmore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Quentin_Tarantino_by_Gage_Skidmore.jpg",
+    "page": "Quentin Tarantino",
+    "lic": "free"
+  },
+  "Wes Anderson": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Wes_Anderson-7541_%28cropped%29.jpg/960px-Wes_Anderson-7541_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Wes_Anderson-7541_(cropped).jpg",
+    "page": "Wes Anderson",
+    "lic": "free"
+  },
+  "Tim Burton": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Tim_Burton-63605.jpg/960px-Tim_Burton-63605.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Tim_Burton-63605.jpg",
+    "page": "Tim Burton",
+    "lic": "free"
+  },
+  "Steven Spielberg": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/MKr25402_Steven_Spielberg_%28Berlinale_2023%29_%283x4_cropped%29.jpg/960px-MKr25402_Steven_Spielberg_%28Berlinale_2023%29_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "MKr25402_Steven_Spielberg_(Berlinale_2023)_(3x4_cropped).jpg",
+    "page": "Steven Spielberg",
+    "lic": "free"
+  },
+  "Guillermo del Toro": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Guillermo_del_Toro_at_the_2026_Sundance_Film_Festival_01_%28cropped%29.jpg/960px-Guillermo_del_Toro_at_the_2026_Sundance_Film_Festival_01_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Guillermo_del_Toro_at_the_2026_Sundance_Film_Festival_01_(cropped).jpg",
+    "page": "Guillermo del Toro",
+    "lic": "free"
+  },
+  "David Attenborough": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/David_Attenborough_in_2025.jpg/960px-David_Attenborough_in_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "David_Attenborough_in_2025.jpg",
+    "page": "David Attenborough",
+    "lic": "free"
+  },
+  "Jane Goodall": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/98/Deputy_Secretary_Higginbottom_Poses_for_a_Photo_With_Dr._Jane_Goodall_and_the_State_Department%27s_Global_Health_Diplomacy_Director_Jordan_in_Washington_%2822365513310%29_%282%29_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Deputy_Secretary_Higginbottom_Poses_for_a_Photo_With_Dr._Jane_Goodall_and_the_State_Department's_Global_Health_Diplomacy_Director_Jordan_in_Washington_(22365513310)_(2)_(cropped_2).jpg",
+    "page": "Jane Goodall",
+    "lic": "free"
+  },
+  "Marie Kondo": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/98/Marie_Kond%C5%8D%2C_2016_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "Marie_Kondō,_2016_(cropped).jpg",
+    "page": "Marie Kondo",
+    "lic": "free"
+  },
+  "Jamie Oliver": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Jamie_Oliver_%28cropped%29.jpg/960px-Jamie_Oliver_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "Jamie_Oliver_(cropped).jpg",
+    "page": "Jamie Oliver",
+    "lic": "free"
+  }
+}

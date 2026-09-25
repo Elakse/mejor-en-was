@@ -1,0 +1,4356 @@
+{
+  "characters": [
+    {
+      "key": "ned-flanders",
+      "name": "Ned Flanders",
+      "wiki": "Ned Flanders",
+      "emoji": "🙏",
+      "tags": [
+        "yellow",
+        "facial-hair",
+        "moustache",
+        "glasses",
+        "tv",
+        "cartoon",
+        "neighbour",
+        "religious",
+        "hat",
+        "naive"
+      ]
+    },
+    {
+      "key": "groundskeeper-willie",
+      "name": "Groundskeeper Willie",
+      "wiki": "Groundskeeper Willie",
+      "emoji": "🧑‍🌾",
+      "tags": [
+        "red",
+        "facial-hair",
+        "beard",
+        "tv",
+        "cartoon",
+        "worker",
+        "grumpy",
+        "redhead",
+        "strong"
+      ]
+    },
+    {
+      "key": "krusty-the-clown",
+      "name": "Krusty the Clown",
+      "wiki": "Krusty the Clown",
+      "emoji": "🤡",
+      "tags": [
+        "clown",
+        "white",
+        "green",
+        "tv",
+        "cartoon",
+        "tv-star",
+        "red",
+        "makeup",
+        "hair"
+      ]
+    },
+    {
+      "key": "barney-gumble",
+      "name": "Barney Gumble",
+      "wiki": "Barney Gumble",
+      "emoji": "🍺",
+      "tags": [
+        "brown",
+        "fat",
+        "tv",
+        "cartoon",
+        "drinker",
+        "hair",
+        "beer"
+      ]
+    },
+    {
+      "key": "milhouse",
+      "name": "Milhouse Van Houten",
+      "wiki": "Milhouse Van Houten",
+      "emoji": "👓",
+      "tags": [
+        "blue",
+        "glasses",
+        "child",
+        "tv",
+        "cartoon",
+        "hair",
+        "nerd"
+      ]
+    },
+    {
+      "key": "moe-szyslak",
+      "name": "Moe Szyslak",
+      "wiki": "Moe Szyslak",
+      "emoji": "🍸",
+      "tags": [
+        "grey",
+        "tv",
+        "cartoon",
+        "grumpy",
+        "bar",
+        "hair"
+      ]
+    },
+    {
+      "key": "chief-wiggum",
+      "name": "Chief Wiggum",
+      "wiki": "Chief Wiggum",
+      "emoji": "🚓",
+      "tags": [
+        "blue",
+        "police",
+        "fat",
+        "tv",
+        "cartoon",
+        "hat",
+        "uniform",
+        "dad",
+        "moustache",
+        "facial-hair"
+      ]
+    },
+    {
+      "key": "smithers",
+      "name": "Waylon Smithers",
+      "wiki": "Waylon Smithers",
+      "emoji": "📋",
+      "tags": [
+        "glasses",
+        "tv",
+        "cartoon",
+        "worker",
+        "suit",
+        "hair",
+        "servant"
+      ]
+    },
+    {
+      "key": "sideshow-bob",
+      "name": "Sideshow Bob",
+      "wiki": "Sideshow Bob",
+      "emoji": "🔪",
+      "tags": [
+        "red",
+        "redhead",
+        "villain",
+        "tv",
+        "cartoon",
+        "criminal",
+        "hair",
+        "big-hair",
+        "red-hair"
+      ]
+    },
+    {
+      "key": "cartman",
+      "name": "Eric Cartman",
+      "wiki": "Eric Cartman",
+      "emoji": "🧢",
+      "tags": [
+        "red",
+        "fat",
+        "child",
+        "tv",
+        "cartoon",
+        "hat",
+        "villain",
+        "greedy",
+        "hat-or-hood"
+      ]
+    },
+    {
+      "key": "kenny",
+      "name": "Kenny McCormick",
+      "wiki": "Kenny McCormick",
+      "emoji": "🧥",
+      "tags": [
+        "orange",
+        "child",
+        "hood",
+        "tv",
+        "cartoon",
+        "poor",
+        "immortal",
+        "hat-or-hood",
+        "coat"
+      ]
+    },
+    {
+      "key": "butters",
+      "name": "Butters Stotch",
+      "wiki": "Butters Stotch",
+      "emoji": "😇",
+      "tags": [
+        "blue",
+        "blond",
+        "child",
+        "tv",
+        "cartoon",
+        "innocent",
+        "hair",
+        "naive"
+      ]
+    },
+    {
+      "key": "wendy-testaburger",
+      "name": "Wendy Testaburger",
+      "wiki": "Wendy Testaburger",
+      "emoji": "🎀",
+      "tags": [
+        "child",
+        "girl",
+        "tv",
+        "cartoon",
+        "hair",
+        "black-hair"
+      ]
+    },
+    {
+      "key": "rick-sanchez",
+      "name": "Rick Sanchez",
+      "wiki": "Rick Sanchez (Rick and Morty)",
+      "emoji": "🧪",
+      "tags": [
+        "blue",
+        "hair",
+        "scientist",
+        "old",
+        "tv",
+        "cartoon",
+        "genius",
+        "drinker",
+        "spiky-hair",
+        "crazy-hair"
+      ]
+    },
+    {
+      "key": "mr-meeseeks",
+      "name": "Mr. Meeseeks",
+      "wiki": "Mr. Meeseeks",
+      "emoji": "🟦",
+      "tags": [
+        "blue",
+        "tiny",
+        "tv",
+        "cartoon",
+        "weird",
+        "small",
+        "loud",
+        "big-eyes"
+      ]
+    },
+    {
+      "key": "turanga-leela",
+      "name": "Turanga Leela",
+      "wiki": "Turanga Leela",
+      "emoji": "👁️",
+      "tags": [
+        "one-eye",
+        "hair",
+        "purple",
+        "tv",
+        "cartoon",
+        "pilot",
+        "space",
+        "strong",
+        "orange-hair",
+        "crew"
+      ]
+    },
+    {
+      "key": "peter-griffin",
+      "name": "Peter Griffin",
+      "wiki": "Peter Griffin",
+      "emoji": "👨",
+      "tags": [
+        "white",
+        "fat",
+        "glasses",
+        "dad",
+        "tv",
+        "cartoon",
+        "brown-hair",
+        "shirt",
+        "beer",
+        "drinker"
+      ]
+    },
+    {
+      "key": "stewie-griffin",
+      "name": "Stewie Griffin",
+      "wiki": "Stewie Griffin",
+      "emoji": "🍼",
+      "tags": [
+        "baby",
+        "child",
+        "villain",
+        "tv",
+        "cartoon",
+        "red",
+        "tiny",
+        "evil",
+        "overalls"
+      ]
+    },
+    {
+      "key": "quagmire",
+      "name": "Glenn Quagmire",
+      "wiki": "Glenn Quagmire",
+      "emoji": "🕺",
+      "tags": [
+        "green",
+        "shirt",
+        "tv",
+        "cartoon",
+        "blond",
+        "hair",
+        "creepy"
+      ]
+    },
+    {
+      "key": "brian-griffin",
+      "name": "Brian Griffin",
+      "wiki": "Brian Griffin",
+      "emoji": "🐶",
+      "tags": [
+        "dog",
+        "white",
+        "animal",
+        "tv",
+        "cartoon",
+        "talking-animal",
+        "sidekick",
+        "writer"
+      ]
+    },
+    {
+      "key": "bender",
+      "name": "Bender",
+      "wiki": "Bender (Futurama)",
+      "emoji": "🤖",
+      "tags": [
+        "grey",
+        "robot",
+        "drinker",
+        "villain",
+        "tv",
+        "cartoon",
+        "metal",
+        "beer",
+        "machine"
+      ]
+    },
+    {
+      "key": "zoidberg",
+      "name": "Doctor Zoidberg",
+      "wiki": "Doctor Zoidberg",
+      "emoji": "🦞",
+      "tags": [
+        "red",
+        "doctor",
+        "alien",
+        "crustacean",
+        "tv",
+        "cartoon",
+        "pincers",
+        "poor",
+        "monster",
+        "crew"
+      ]
+    },
+    {
+      "key": "the-riddler",
+      "name": "The Riddler",
+      "wiki": "The Riddler",
+      "emoji": "❓",
+      "tags": [
+        "green",
+        "villain",
+        "comic",
+        "smart",
+        "mask",
+        "villain-mask",
+        "hat",
+        "question-mark"
+      ]
+    },
+    {
+      "key": "catwoman",
+      "name": "Catwoman",
+      "wiki": "Catwoman",
+      "emoji": "🐈",
+      "tags": [
+        "black",
+        "cat",
+        "villain",
+        "comic",
+        "goggles",
+        "cat-themed",
+        "woman",
+        "ears"
+      ]
+    },
+    {
+      "key": "poison-ivy",
+      "name": "Poison Ivy",
+      "wiki": "Poison Ivy (character)",
+      "emoji": "🌿",
+      "tags": [
+        "green",
+        "red",
+        "villain",
+        "comic",
+        "plant",
+        "woman",
+        "redhead",
+        "red-hair"
+      ]
+    },
+    {
+      "key": "bane",
+      "name": "Bane",
+      "wiki": "Bane (DC Comics)",
+      "emoji": "💪",
+      "tags": [
+        "villain",
+        "comic",
+        "mask",
+        "villain-mask",
+        "strong",
+        "muscles",
+        "big"
+      ]
+    },
+    {
+      "key": "scarecrow",
+      "name": "Scarecrow",
+      "wiki": "Scarecrow (DC Comics)",
+      "emoji": "🎃",
+      "tags": [
+        "villain",
+        "comic",
+        "mask",
+        "villain-mask",
+        "hat",
+        "scary",
+        "brown",
+        "farmer"
+      ]
+    },
+    {
+      "key": "two-face",
+      "name": "Two-Face",
+      "wiki": "Two-Face",
+      "emoji": "🪙",
+      "tags": [
+        "villain",
+        "comic",
+        "purple",
+        "suit",
+        "split",
+        "damaged"
+      ]
+    },
+    {
+      "key": "alfred",
+      "name": "Alfred Pennyworth",
+      "wiki": "Alfred Pennyworth",
+      "emoji": "🎩",
+      "tags": [
+        "old",
+        "comic",
+        "moustache",
+        "facial-hair",
+        "suit",
+        "grey-hair",
+        "gentleman",
+        "british",
+        "servant"
+      ]
+    },
+    {
+      "key": "wolverine",
+      "name": "Wolverine",
+      "wiki": "Wolverine (character)",
+      "emoji": "🗡️",
+      "tags": [
+        "yellow",
+        "hero",
+        "comic",
+        "claws",
+        "facial-hair",
+        "mutant",
+        "mask",
+        "weapon",
+        "angry",
+        "short"
+      ]
+    },
+    {
+      "key": "deadpool",
+      "name": "Deadpool",
+      "wiki": "Deadpool",
+      "emoji": "🗡️",
+      "tags": [
+        "red",
+        "hero",
+        "comic",
+        "mask",
+        "weapon",
+        "swords",
+        "funny",
+        "immortal",
+        "mutant",
+        "deadpool"
+      ]
+    },
+    {
+      "key": "magneto",
+      "name": "Magneto",
+      "wiki": "Magneto (Marvel Comics)",
+      "emoji": "🧲",
+      "tags": [
+        "red",
+        "purple",
+        "villain",
+        "comic",
+        "helmet",
+        "mutant",
+        "old",
+        "hat",
+        "cape",
+        "purple-cape"
+      ]
+    },
+    {
+      "key": "mystique",
+      "name": "Mystique",
+      "wiki": "Mystique (Marvel Comics)",
+      "emoji": "🔵",
+      "tags": [
+        "blue",
+        "villain",
+        "comic",
+        "mutant",
+        "woman",
+        "red-hair",
+        "redhead",
+        "shapeshifter"
+      ]
+    },
+    {
+      "key": "thanos",
+      "name": "Thanos",
+      "wiki": "Thanos",
+      "emoji": "💜",
+      "tags": [
+        "purple",
+        "villain",
+        "comic",
+        "giant",
+        "bald",
+        "strong",
+        "warlord",
+        "alien",
+        "big"
+      ]
+    },
+    {
+      "key": "groot",
+      "name": "Groot",
+      "wiki": "Groot",
+      "emoji": "🌳",
+      "tags": [
+        "brown",
+        "tree",
+        "hero",
+        "comic",
+        "alien",
+        "giant",
+        "plant",
+        "big",
+        "gentle"
+      ]
+    },
+    {
+      "key": "rocket-raccoon",
+      "name": "Rocket Raccoon",
+      "wiki": "Rocket Raccoon",
+      "emoji": "🦝",
+      "tags": [
+        "animal",
+        "hero",
+        "comic",
+        "raccoon",
+        "gun",
+        "weapon",
+        "tiny",
+        "space",
+        "small",
+        "animal-hero"
+      ]
+    },
+    {
+      "key": "doctor-strange",
+      "name": "Doctor Strange",
+      "wiki": "Doctor Strange",
+      "emoji": "🔮",
+      "tags": [
+        "magic",
+        "hero",
+        "comic",
+        "cape",
+        "doctor",
+        "beard",
+        "facial-hair",
+        "wizard",
+        "magic-user"
+      ]
+    },
+    {
+      "key": "hulk",
+      "name": "Hulk",
+      "wiki": "Hulk",
+      "emoji": "💚",
+      "tags": [
+        "green",
+        "hero",
+        "comic",
+        "giant",
+        "strong",
+        "muscles",
+        "big",
+        "angry"
+      ]
+    },
+    {
+      "key": "gandalf",
+      "name": "Gandalf",
+      "wiki": "Gandalf",
+      "emoji": "🧙",
+      "tags": [
+        "grey",
+        "wizard",
+        "old",
+        "beard",
+        "facial-hair",
+        "hat",
+        "staff",
+        "weapon",
+        "magic",
+        "pointy-hat",
+        "magic-user",
+        "wise"
+      ]
+    },
+    {
+      "key": "hagrid",
+      "name": "Rubeus Hagrid",
+      "wiki": "Rubeus Hagrid",
+      "emoji": "🧔",
+      "tags": [
+        "giant",
+        "beard",
+        "facial-hair",
+        "magic",
+        "movie",
+        "coat",
+        "brown",
+        "big",
+        "hair",
+        "tall"
+      ]
+    },
+    {
+      "key": "snape",
+      "name": "Severus Snape",
+      "wiki": "Severus Snape",
+      "emoji": "🖤",
+      "tags": [
+        "black",
+        "magic",
+        "movie",
+        "long-hair",
+        "villain",
+        "hair",
+        "robe",
+        "grumpy",
+        "pale"
+      ]
+    },
+    {
+      "key": "dumbledore",
+      "name": "Albus Dumbledore",
+      "wiki": "Albus Dumbledore",
+      "emoji": "🧙",
+      "tags": [
+        "beard",
+        "facial-hair",
+        "old",
+        "magic",
+        "movie",
+        "wizard",
+        "glasses",
+        "white",
+        "hair",
+        "wise"
+      ]
+    },
+    {
+      "key": "mcgonagall",
+      "name": "Minerva McGonagall",
+      "wiki": "Minerva McGonagall",
+      "emoji": "🐈‍⬛",
+      "tags": [
+        "old",
+        "magic",
+        "movie",
+        "glasses",
+        "woman",
+        "pointy-hat",
+        "hat",
+        "wise"
+      ]
+    },
+    {
+      "key": "chewbacca",
+      "name": "Chewbacca",
+      "wiki": "Chewbacca",
+      "emoji": "🦍",
+      "tags": [
+        "brown",
+        "furry",
+        "giant",
+        "movie",
+        "space",
+        "weapon",
+        "alien",
+        "big",
+        "hair",
+        "tall"
+      ]
+    },
+    {
+      "key": "yoda",
+      "name": "Yoda",
+      "wiki": "Yoda",
+      "emoji": "👽",
+      "tags": [
+        "green",
+        "tiny",
+        "old",
+        "movie",
+        "space",
+        "magic",
+        "weapon",
+        "alien",
+        "small",
+        "wise",
+        "magic-user"
+      ]
+    },
+    {
+      "key": "darth-maul",
+      "name": "Darth Maul",
+      "wiki": "Darth Maul",
+      "emoji": "🔴",
+      "tags": [
+        "red",
+        "black",
+        "villain",
+        "movie",
+        "space",
+        "weapon",
+        "tattoo",
+        "bald",
+        "angry"
+      ]
+    },
+    {
+      "key": "jabba",
+      "name": "Jabba the Hutt",
+      "wiki": "Jabba the Hutt",
+      "emoji": "🐌",
+      "tags": [
+        "green",
+        "giant",
+        "fat",
+        "villain",
+        "movie",
+        "space",
+        "alien",
+        "warlord",
+        "big",
+        "greedy"
+      ]
+    },
+    {
+      "key": "grogu",
+      "name": "Grogu",
+      "wiki": "Grogu",
+      "emoji": "👶",
+      "tags": [
+        "green",
+        "tiny",
+        "baby",
+        "movie",
+        "space",
+        "ears",
+        "alien",
+        "small",
+        "cute",
+        "magic-user"
+      ]
+    },
+    {
+      "key": "darth-vader",
+      "name": "Darth Vader",
+      "wiki": "Darth Vader",
+      "emoji": "😈",
+      "tags": [
+        "black",
+        "villain",
+        "movie",
+        "space",
+        "mask",
+        "helmet",
+        "cape",
+        "hat",
+        "weapon",
+        "deep-voice",
+        "villain-mask"
+      ]
+    },
+    {
+      "key": "obi-wan",
+      "name": "Obi-Wan Kenobi",
+      "wiki": "Obi-Wan Kenobi",
+      "emoji": "🧔",
+      "tags": [
+        "beard",
+        "facial-hair",
+        "movie",
+        "space",
+        "weapon",
+        "cape",
+        "robe",
+        "magic-user",
+        "wise",
+        "old"
+      ]
+    },
+    {
+      "key": "cookie-monster",
+      "name": "Cookie Monster",
+      "wiki": "Cookie Monster",
+      "emoji": "🍪",
+      "tags": [
+        "blue",
+        "furry",
+        "monster",
+        "tv",
+        "puppet",
+        "food",
+        "eyes",
+        "hungry",
+        "muppet"
+      ]
+    },
+    {
+      "key": "count-von-count",
+      "name": "Count von Count",
+      "wiki": "Count von Count",
+      "emoji": "🧛",
+      "tags": [
+        "purple",
+        "vampire",
+        "monster",
+        "tv",
+        "puppet",
+        "cape",
+        "purple-cape",
+        "teeth",
+        "muppet",
+        "dead"
+      ]
+    },
+    {
+      "key": "grover",
+      "name": "Grover",
+      "wiki": "Grover",
+      "emoji": "🔵",
+      "tags": [
+        "blue",
+        "furry",
+        "monster",
+        "tv",
+        "puppet",
+        "eyes",
+        "muppet",
+        "cute"
+      ]
+    },
+    {
+      "key": "animal-muppet",
+      "name": "Animal",
+      "wiki": "Animal (Muppet)",
+      "emoji": "🥁",
+      "tags": [
+        "red",
+        "furry",
+        "musician",
+        "tv",
+        "puppet",
+        "drummer",
+        "wild",
+        "muppet",
+        "big-hair",
+        "hair",
+        "hungry"
+      ]
+    },
+    {
+      "key": "bert-ernie",
+      "name": "Bert and Ernie",
+      "wiki": "Bert and Ernie",
+      "emoji": "🛁",
+      "tags": [
+        "orange",
+        "yellow",
+        "tv",
+        "puppet",
+        "friends",
+        "hair",
+        "muppet",
+        "duo"
+      ]
+    },
+    {
+      "key": "thomas-tank",
+      "name": "Thomas the Tank Engine",
+      "wiki": "Thomas the Tank Engine",
+      "emoji": "🚂",
+      "tags": [
+        "blue",
+        "train",
+        "tv",
+        "vehicle",
+        "talking-object",
+        "eyes",
+        "british"
+      ]
+    },
+    {
+      "key": "peppa-pig",
+      "name": "Peppa Pig",
+      "wiki": "Peppa Pig",
+      "emoji": "🐷",
+      "tags": [
+        "pink",
+        "pig",
+        "animal",
+        "tv",
+        "cartoon",
+        "child",
+        "girl",
+        "british"
+      ]
+    },
+    {
+      "key": "grinch",
+      "name": "The Grinch",
+      "wiki": "Grinch",
+      "emoji": "🎄",
+      "tags": [
+        "green",
+        "furry",
+        "villain",
+        "movie",
+        "cartoon",
+        "christmas",
+        "grumpy",
+        "monster"
+      ]
+    },
+    {
+      "key": "olaf",
+      "name": "Olaf",
+      "wiki": "Olaf (Frozen)",
+      "emoji": "⛄",
+      "tags": [
+        "white",
+        "snowman",
+        "movie",
+        "cartoon",
+        "snow",
+        "carrot",
+        "talking-object",
+        "cute",
+        "cold",
+        "soft"
+      ]
+    },
+    {
+      "key": "stay-puft",
+      "name": "Stay Puft Marshmallow Man",
+      "wiki": "Stay Puft Marshmallow Man",
+      "emoji": "🍡",
+      "tags": [
+        "white",
+        "giant",
+        "fat",
+        "movie",
+        "monster",
+        "sailor",
+        "hat",
+        "uniform",
+        "big",
+        "soft"
+      ]
+    },
+    {
+      "key": "slimer",
+      "name": "Slimer",
+      "wiki": "Slimer",
+      "emoji": "🟢",
+      "tags": [
+        "green",
+        "ghost",
+        "fat",
+        "movie",
+        "monster",
+        "dead",
+        "blob",
+        "hungry",
+        "round"
+      ]
+    },
+    {
+      "key": "pennywise",
+      "name": "Pennywise",
+      "wiki": "Pennywise the Dancing Clown",
+      "emoji": "🎈",
+      "tags": [
+        "clown",
+        "villain",
+        "movie",
+        "scary",
+        "red",
+        "white",
+        "makeup",
+        "dead",
+        "monster",
+        "hair",
+        "horror"
+      ]
+    },
+    {
+      "key": "freddy-krueger",
+      "name": "Freddy Krueger",
+      "wiki": "Freddy Krueger",
+      "emoji": "🔪",
+      "tags": [
+        "brown",
+        "villain",
+        "movie",
+        "scary",
+        "hat",
+        "weapon",
+        "claws",
+        "dead",
+        "mask",
+        "villain-mask",
+        "stripes",
+        "blades"
+      ]
+    },
+    {
+      "key": "jason-voorhees",
+      "name": "Jason Voorhees",
+      "wiki": "Jason Voorhees",
+      "emoji": "🔪",
+      "tags": [
+        "villain",
+        "movie",
+        "scary",
+        "mask",
+        "villain-mask",
+        "weapon",
+        "machete",
+        "dead",
+        "strong",
+        "big"
+      ]
+    },
+    {
+      "key": "michael-myers",
+      "name": "Michael Myers",
+      "wiki": "Michael Myers (Halloween)",
+      "emoji": "🎃",
+      "tags": [
+        "white",
+        "villain",
+        "movie",
+        "scary",
+        "mask",
+        "villain-mask",
+        "weapon",
+        "dead",
+        "knife"
+      ]
+    },
+    {
+      "key": "chucky",
+      "name": "Chucky",
+      "wiki": "Chucky (Child's Play)",
+      "emoji": "🪆",
+      "tags": [
+        "red",
+        "villain",
+        "movie",
+        "doll",
+        "tiny",
+        "toy",
+        "weapon",
+        "knife",
+        "redhead",
+        "evil",
+        "small",
+        "overalls",
+        "red-hair"
+      ]
+    },
+    {
+      "key": "edward-scissorhands",
+      "name": "Edward Scissorhands",
+      "wiki": "Edward Scissorhands",
+      "emoji": "✂️",
+      "tags": [
+        "black",
+        "pale",
+        "movie",
+        "scissors",
+        "hair",
+        "weapon",
+        "monster",
+        "cute",
+        "gentle",
+        "blades"
+      ]
+    },
+    {
+      "key": "gru",
+      "name": "Gru",
+      "wiki": "Gru (Despicable Me)",
+      "emoji": "🌙",
+      "tags": [
+        "bald",
+        "villain",
+        "movie",
+        "cartoon",
+        "coat",
+        "nose",
+        "dad",
+        "scarf",
+        "no-hair",
+        "glasses"
+      ]
+    },
+    {
+      "key": "shrek",
+      "name": "Shrek",
+      "wiki": "Shrek (character)",
+      "emoji": "🧅",
+      "tags": [
+        "green",
+        "giant",
+        "fat",
+        "movie",
+        "cartoon",
+        "ogre",
+        "monster",
+        "ears",
+        "big",
+        "grumpy"
+      ]
+    },
+    {
+      "key": "donkey",
+      "name": "Donkey",
+      "wiki": "Donkey (Shrek)",
+      "emoji": "🫏",
+      "tags": [
+        "grey",
+        "donkey",
+        "animal",
+        "movie",
+        "cartoon",
+        "talking-animal",
+        "sidekick",
+        "loud"
+      ]
+    },
+    {
+      "key": "puss-in-boots",
+      "name": "Puss in Boots",
+      "wiki": "Puss in Boots (Shrek)",
+      "emoji": "🐱",
+      "tags": [
+        "orange",
+        "cat",
+        "animal",
+        "movie",
+        "cartoon",
+        "hat",
+        "weapon",
+        "sword",
+        "boots",
+        "cat-themed",
+        "talking-animal",
+        "small",
+        "tiny"
+      ]
+    },
+    {
+      "key": "wall-e",
+      "name": "WALL-E",
+      "wiki": "WALL-E",
+      "emoji": "🤖",
+      "tags": [
+        "robot",
+        "movie",
+        "cartoon",
+        "space",
+        "tiny",
+        "eyes",
+        "yellow",
+        "machine",
+        "cute",
+        "small",
+        "gentle"
+      ]
+    },
+    {
+      "key": "bumblebee",
+      "name": "Bumblebee",
+      "wiki": "Bumblebee (Transformers)",
+      "emoji": "🚗",
+      "tags": [
+        "yellow",
+        "robot",
+        "movie",
+        "vehicle",
+        "giant",
+        "alien",
+        "machine",
+        "big",
+        "gentle"
+      ]
+    },
+    {
+      "key": "optimus-prime",
+      "name": "Optimus Prime",
+      "wiki": "Optimus Prime",
+      "emoji": "🚛",
+      "tags": [
+        "red",
+        "blue",
+        "robot",
+        "movie",
+        "vehicle",
+        "giant",
+        "alien",
+        "hero",
+        "leader",
+        "machine",
+        "big",
+        "mask"
+      ]
+    },
+    {
+      "key": "stitch",
+      "name": "Stitch",
+      "wiki": "Stitch (Lilo & Stitch)",
+      "emoji": "👽",
+      "tags": [
+        "blue",
+        "alien",
+        "movie",
+        "cartoon",
+        "animal",
+        "ears",
+        "tiny",
+        "hero",
+        "furry",
+        "small",
+        "cute",
+        "four-arms"
+      ]
+    },
+    {
+      "key": "mr-peanut",
+      "name": "Mr. Peanut",
+      "wiki": "Mr. Peanut",
+      "emoji": "🥜",
+      "tags": [
+        "brown",
+        "mascot",
+        "hat",
+        "suit",
+        "food",
+        "gentleman",
+        "top-hat",
+        "moustache",
+        "facial-hair",
+        "cane"
+      ]
+    },
+    {
+      "key": "julius-pringles",
+      "name": "Julius Pringles",
+      "wiki": "Julius Pringles",
+      "emoji": "🥔",
+      "tags": [
+        "mascot",
+        "moustache",
+        "facial-hair",
+        "hat",
+        "food",
+        "bow-tie",
+        "hair",
+        "white-hair"
+      ]
+    },
+    {
+      "key": "kool-aid-man",
+      "name": "Kool-Aid Man",
+      "wiki": "Kool-Aid Man",
+      "emoji": "🥤",
+      "tags": [
+        "red",
+        "mascot",
+        "giant",
+        "food",
+        "drink",
+        "eyes",
+        "glass",
+        "big",
+        "loud",
+        "strong",
+        "round"
+      ]
+    },
+    {
+      "key": "tony-the-tiger",
+      "name": "Tony the Tiger",
+      "wiki": "Tony the Tiger",
+      "emoji": "🐯",
+      "tags": [
+        "orange",
+        "tiger",
+        "animal",
+        "mascot",
+        "food",
+        "talking-animal",
+        "scarf",
+        "big",
+        "stripes"
+      ]
+    },
+    {
+      "key": "waluigi",
+      "name": "Waluigi",
+      "wiki": "Waluigi",
+      "emoji": "🟣",
+      "tags": [
+        "purple",
+        "villain",
+        "game",
+        "moustache",
+        "facial-hair",
+        "hat",
+        "gloves",
+        "thin",
+        "nintendo",
+        "tall",
+        "purple-hat"
+      ]
+    },
+    {
+      "key": "toad",
+      "name": "Toad",
+      "wiki": "Toad (Nintendo)",
+      "emoji": "🍄",
+      "tags": [
+        "red",
+        "game",
+        "mushroom",
+        "hat",
+        "tiny",
+        "eyes",
+        "vest",
+        "nintendo",
+        "small",
+        "cute"
+      ]
+    },
+    {
+      "key": "bowser",
+      "name": "Bowser",
+      "wiki": "Bowser",
+      "emoji": "🐢",
+      "tags": [
+        "green",
+        "yellow",
+        "villain",
+        "game",
+        "turtle",
+        "giant",
+        "spikes",
+        "shell",
+        "monster",
+        "nintendo",
+        "big",
+        "turtle-shell",
+        "grumpy"
+      ]
+    },
+    {
+      "key": "yoshi",
+      "name": "Yoshi",
+      "wiki": "Yoshi",
+      "emoji": "🥚",
+      "tags": [
+        "green",
+        "game",
+        "dinosaur",
+        "animal",
+        "talking-animal",
+        "tongue",
+        "cute",
+        "boots",
+        "nintendo",
+        "reptile",
+        "small"
+      ]
+    },
+    {
+      "key": "kirby",
+      "name": "Kirby",
+      "wiki": "Kirby (character)",
+      "emoji": "🌸",
+      "tags": [
+        "pink",
+        "game",
+        "ball",
+        "cute",
+        "hero",
+        "tiny",
+        "eyes",
+        "nintendo",
+        "small",
+        "round",
+        "hungry"
+      ]
+    },
+    {
+      "key": "wario",
+      "name": "Wario",
+      "wiki": "Wario",
+      "emoji": "💰",
+      "tags": [
+        "yellow",
+        "purple",
+        "villain",
+        "game",
+        "moustache",
+        "facial-hair",
+        "hat",
+        "fat",
+        "gloves",
+        "greedy",
+        "nintendo",
+        "strong"
+      ]
+    },
+    {
+      "key": "donkey-kong",
+      "name": "Donkey Kong",
+      "wiki": "Donkey Kong (character)",
+      "emoji": "🦍",
+      "tags": [
+        "brown",
+        "gorilla",
+        "animal",
+        "game",
+        "talking-animal",
+        "tie",
+        "strong",
+        "giant",
+        "nintendo",
+        "big",
+        "muscles",
+        "monkey"
+      ]
+    },
+    {
+      "key": "princess-peach",
+      "name": "Princess Peach",
+      "wiki": "Princess Peach",
+      "emoji": "👑",
+      "tags": [
+        "pink",
+        "royalty",
+        "game",
+        "crown",
+        "dress",
+        "blond",
+        "princess",
+        "gloves",
+        "nintendo",
+        "woman",
+        "queen"
+      ]
+    },
+    {
+      "key": "koopa-troopa",
+      "name": "Koopa Troopa",
+      "wiki": "Koopa Troopa",
+      "emoji": "🐢",
+      "tags": [
+        "green",
+        "turtle",
+        "game",
+        "shell",
+        "animal",
+        "yellow",
+        "nintendo",
+        "reptile",
+        "turtle-shell"
+      ]
+    },
+    {
+      "key": "tails",
+      "name": "Tails",
+      "wiki": "Miles \"Tails\" Prower",
+      "emoji": "🦊",
+      "tags": [
+        "orange",
+        "fox",
+        "animal",
+        "game",
+        "talking-animal",
+        "sidekick",
+        "two-tails",
+        "genius"
+      ]
+    },
+    {
+      "key": "knuckles",
+      "name": "Knuckles the Echidna",
+      "wiki": "Knuckles the Echidna",
+      "emoji": "🥊",
+      "tags": [
+        "red",
+        "game",
+        "animal",
+        "strong",
+        "gloves",
+        "spikes",
+        "fists",
+        "muscles",
+        "serious"
+      ]
+    },
+    {
+      "key": "dr-eggman",
+      "name": "Doctor Eggman",
+      "wiki": "Doctor Eggman",
+      "emoji": "🥚",
+      "tags": [
+        "bald",
+        "moustache",
+        "facial-hair",
+        "villain",
+        "game",
+        "scientist",
+        "glasses",
+        "fat",
+        "red",
+        "soft",
+        "no-hair",
+        "eggs",
+        "doctor"
+      ]
+    },
+    {
+      "key": "shadow-hedgehog",
+      "name": "Shadow the Hedgehog",
+      "wiki": "Shadow the Hedgehog",
+      "emoji": "🖤",
+      "tags": [
+        "black",
+        "red",
+        "game",
+        "animal",
+        "villain",
+        "spikes",
+        "antihero",
+        "stripes",
+        "edgy"
+      ]
+    },
+    {
+      "key": "psyduck",
+      "name": "Psyduck",
+      "wiki": "Psyduck",
+      "emoji": "🐤",
+      "tags": [
+        "yellow",
+        "game",
+        "animal",
+        "duck",
+        "bird",
+        "cute",
+        "headache",
+        "pokemon",
+        "small",
+        "confused",
+        "water"
+      ]
+    },
+    {
+      "key": "snorlax",
+      "name": "Snorlax",
+      "wiki": "Snorlax",
+      "emoji": "😴",
+      "tags": [
+        "blue",
+        "game",
+        "animal",
+        "giant",
+        "fat",
+        "sleepy",
+        "monster",
+        "pokemon",
+        "lazy",
+        "round"
+      ]
+    },
+    {
+      "key": "magikarp",
+      "name": "Magikarp",
+      "wiki": "Magikarp",
+      "emoji": "🐟",
+      "tags": [
+        "red",
+        "game",
+        "fish",
+        "animal",
+        "useless",
+        "water",
+        "orange",
+        "pokemon",
+        "weak",
+        "flopping"
+      ]
+    },
+    {
+      "key": "jigglypuff",
+      "name": "Jigglypuff",
+      "wiki": "Jigglypuff",
+      "emoji": "🎤",
+      "tags": [
+        "pink",
+        "game",
+        "ball",
+        "cute",
+        "singer",
+        "musician",
+        "round",
+        "pokemon",
+        "sings",
+        "small",
+        "eyes"
+      ]
+    },
+    {
+      "key": "meowth",
+      "name": "Meowth",
+      "wiki": "Meowth",
+      "emoji": "🐱",
+      "tags": [
+        "yellow",
+        "cat",
+        "animal",
+        "game",
+        "villain",
+        "talking-animal",
+        "coin",
+        "claws",
+        "pokemon",
+        "cat-themed",
+        "small"
+      ]
+    },
+    {
+      "key": "bulbasaur",
+      "name": "Bulbasaur",
+      "wiki": "Bulbasaur",
+      "emoji": "🌱",
+      "tags": [
+        "green",
+        "game",
+        "animal",
+        "plant",
+        "dinosaur",
+        "cute",
+        "quadruped",
+        "pokemon",
+        "small",
+        "pokemon-starter"
+      ]
+    },
+    {
+      "key": "charmander",
+      "name": "Charmander",
+      "wiki": "Charmander",
+      "emoji": "🔥",
+      "tags": [
+        "orange",
+        "game",
+        "animal",
+        "fire",
+        "dinosaur",
+        "cute",
+        "tail",
+        "lizard",
+        "pokemon",
+        "reptile",
+        "small",
+        "pokemon-starter"
+      ]
+    },
+    {
+      "key": "gengar",
+      "name": "Gengar",
+      "wiki": "Gengar",
+      "emoji": "👻",
+      "tags": [
+        "purple",
+        "game",
+        "ghost",
+        "monster",
+        "evil",
+        "round",
+        "spikes",
+        "pokemon",
+        "dead",
+        "grin"
+      ]
+    },
+    {
+      "key": "eevee",
+      "name": "Eevee",
+      "wiki": "Eevee",
+      "emoji": "🦊",
+      "tags": [
+        "brown",
+        "game",
+        "animal",
+        "fox",
+        "cute",
+        "furry",
+        "quadruped",
+        "pokemon",
+        "small",
+        "fluffy"
+      ]
+    },
+    {
+      "key": "slowpoke",
+      "name": "Slowpoke",
+      "wiki": "Slowpoke",
+      "emoji": "🩷",
+      "tags": [
+        "pink",
+        "game",
+        "animal",
+        "slow",
+        "cute",
+        "quadruped",
+        "water",
+        "pokemon",
+        "lazy",
+        "round"
+      ]
+    },
+    {
+      "key": "steve-minecraft",
+      "name": "Steve",
+      "wiki": "Steve (Minecraft)",
+      "emoji": "⛏️",
+      "tags": [
+        "game",
+        "blocky",
+        "human",
+        "pixel",
+        "beard",
+        "worker",
+        "blue",
+        "square",
+        "minecraft",
+        "blocks"
+      ]
+    },
+    {
+      "key": "among-us",
+      "name": "Among Us Crewmate",
+      "wiki": "Among Us",
+      "emoji": "🔴",
+      "tags": [
+        "red",
+        "game",
+        "space",
+        "alien",
+        "bean",
+        "helmet",
+        "tiny",
+        "small",
+        "cute",
+        "visor"
+      ]
+    },
+    {
+      "key": "pac-man",
+      "name": "Pac-Man",
+      "wiki": "Pac-Man",
+      "emoji": "🟡",
+      "tags": [
+        "yellow",
+        "game",
+        "ball",
+        "round",
+        "mouth",
+        "old",
+        "arcade",
+        "hungry",
+        "eats"
+      ]
+    },
+    {
+      "key": "lara-croft",
+      "name": "Lara Croft",
+      "wiki": "Lara Croft",
+      "emoji": "🏺",
+      "tags": [
+        "game",
+        "woman",
+        "hero",
+        "gun",
+        "weapon",
+        "ponytail",
+        "brown-hair",
+        "adventurer",
+        "strong"
+      ]
+    },
+    {
+      "key": "kratos",
+      "name": "Kratos",
+      "wiki": "Kratos (God of War)",
+      "emoji": "🪓",
+      "tags": [
+        "bald",
+        "game",
+        "hero",
+        "muscles",
+        "red",
+        "tattoo",
+        "axe",
+        "weapon",
+        "angry",
+        "beard",
+        "facial-hair",
+        "no-hair",
+        "strong",
+        "big"
+      ]
+    },
+    {
+      "key": "master-chief",
+      "name": "Master Chief",
+      "wiki": "Master Chief (Halo)",
+      "emoji": "🪖",
+      "tags": [
+        "green",
+        "game",
+        "space",
+        "soldier",
+        "helmet",
+        "mask",
+        "armour",
+        "hat",
+        "weapon",
+        "machine",
+        "armored"
+      ]
+    },
+    {
+      "key": "red-angry-bird",
+      "name": "Red",
+      "wiki": "Red (Angry Birds)",
+      "emoji": "🐦",
+      "tags": [
+        "red",
+        "bird",
+        "game",
+        "angry",
+        "tiny",
+        "cartoon",
+        "animal",
+        "small",
+        "round",
+        "loud"
+      ]
+    },
+    {
+      "key": "sackboy",
+      "name": "Sackboy",
+      "wiki": "Sackboy",
+      "emoji": "🧵",
+      "tags": [
+        "brown",
+        "game",
+        "doll",
+        "cute",
+        "tiny",
+        "fabric",
+        "small",
+        "toy",
+        "ginger",
+        "redhead"
+      ]
+    },
+    {
+      "key": "mr-bean",
+      "name": "Mr. Bean",
+      "wiki": "Mr. Bean",
+      "emoji": "🪑",
+      "tags": [
+        "brown",
+        "suit",
+        "tie",
+        "tv",
+        "funny",
+        "silent",
+        "car",
+        "british",
+        "silly",
+        "no-words",
+        "facial-hair",
+        "moustache"
+      ]
+    },
+    {
+      "key": "danny-devito",
+      "name": "Danny DeVito",
+      "wiki": "Danny DeVito",
+      "emoji": "🎬",
+      "tags": [
+        "actor",
+        "person",
+        "short",
+        "bald",
+        "old",
+        "funny",
+        "no-hair",
+        "short-actor"
+      ]
+    },
+    {
+      "key": "nicolas-cage",
+      "name": "Nicolas Cage",
+      "wiki": "Nicolas Cage",
+      "emoji": "🎬",
+      "tags": [
+        "actor",
+        "person",
+        "hair",
+        "crazy",
+        "oscar",
+        "dark-hair",
+        "loud"
+      ]
+    },
+    {
+      "key": "jeff-goldblum",
+      "name": "Jeff Goldblum",
+      "wiki": "Jeff Goldblum",
+      "emoji": "🦖",
+      "tags": [
+        "actor",
+        "person",
+        "tall",
+        "glasses",
+        "old",
+        "charming",
+        "grey-hair"
+      ]
+    },
+    {
+      "key": "steve-buscemi",
+      "name": "Steve Buscemi",
+      "wiki": "Steve Buscemi",
+      "emoji": "🎬",
+      "tags": [
+        "actor",
+        "person",
+        "thin",
+        "eyes",
+        "old",
+        "grumpy",
+        "tall",
+        "deadpan"
+      ]
+    },
+    {
+      "key": "bill-murray",
+      "name": "Bill Murray",
+      "wiki": "Bill Murray",
+      "emoji": "🎬",
+      "tags": [
+        "actor",
+        "person",
+        "old",
+        "grey-hair",
+        "funny",
+        "suit",
+        "deadpan"
+      ]
+    },
+    {
+      "key": "samuel-l-jackson",
+      "name": "Samuel L. Jackson",
+      "wiki": "Samuel L. Jackson",
+      "emoji": "🎬",
+      "tags": [
+        "actor",
+        "person",
+        "bald",
+        "angry",
+        "suit",
+        "loud",
+        "no-hair",
+        "loud-voice"
+      ]
+    },
+    {
+      "key": "arnold",
+      "name": "Arnold Schwarzenegger",
+      "wiki": "Arnold Schwarzenegger",
+      "emoji": "💪",
+      "tags": [
+        "actor",
+        "person",
+        "muscles",
+        "old",
+        "strong",
+        "austrian",
+        "sunglasses",
+        "big",
+        "action-hero"
+      ]
+    },
+    {
+      "key": "jack-black",
+      "name": "Jack Black",
+      "wiki": "Jack Black",
+      "emoji": "🎸",
+      "tags": [
+        "actor",
+        "person",
+        "musician",
+        "fat",
+        "beard",
+        "facial-hair",
+        "funny",
+        "loud",
+        "rock"
+      ]
+    },
+    {
+      "key": "seth-rogen",
+      "name": "Seth Rogen",
+      "wiki": "Seth Rogen",
+      "emoji": "😂",
+      "tags": [
+        "actor",
+        "person",
+        "beard",
+        "fat",
+        "facial-hair",
+        "funny",
+        "laugh",
+        "loud"
+      ]
+    },
+    {
+      "key": "snoop-dogg",
+      "name": "Snoop Dogg",
+      "wiki": "Snoop Dogg",
+      "emoji": "🌿",
+      "tags": [
+        "musician",
+        "person",
+        "rapper",
+        "hair",
+        "sunglasses",
+        "chill",
+        "long-hair",
+        "rapper-sunglasses"
+      ]
+    },
+    {
+      "key": "ozzy-osbourne",
+      "name": "Ozzy Osbourne",
+      "wiki": "Ozzy Osbourne",
+      "emoji": "🦇",
+      "tags": [
+        "musician",
+        "person",
+        "rocker",
+        "old",
+        "long-hair",
+        "glasses",
+        "black",
+        "hair",
+        "rock"
+      ]
+    },
+    {
+      "key": "elton-john",
+      "name": "Elton John",
+      "wiki": "Elton John",
+      "emoji": "🎹",
+      "tags": [
+        "musician",
+        "person",
+        "glasses",
+        "piano",
+        "rock",
+        "hat",
+        "colourful"
+      ]
+    },
+    {
+      "key": "freddie-mercury",
+      "name": "Freddie Mercury",
+      "wiki": "Freddie Mercury",
+      "emoji": "🎤",
+      "tags": [
+        "musician",
+        "person",
+        "singer",
+        "moustache",
+        "facial-hair",
+        "rock",
+        "dead",
+        "loud",
+        "rocker"
+      ]
+    },
+    {
+      "key": "bob-marley",
+      "name": "Bob Marley",
+      "wiki": "Bob Marley",
+      "emoji": "🎵",
+      "tags": [
+        "musician",
+        "person",
+        "reggae",
+        "dreadlocks",
+        "hair",
+        "dead",
+        "jamaican",
+        "chill",
+        "big-hair"
+      ]
+    },
+    {
+      "key": "david-bowie",
+      "name": "David Bowie",
+      "wiki": "David Bowie",
+      "emoji": "⚡",
+      "tags": [
+        "musician",
+        "person",
+        "singer",
+        "thin",
+        "hair",
+        "weird",
+        "dead",
+        "rock",
+        "colourful",
+        "pop-star"
+      ]
+    },
+    {
+      "key": "einstein",
+      "name": "Albert Einstein",
+      "wiki": "Albert Einstein",
+      "emoji": "🧠",
+      "tags": [
+        "scientist",
+        "person",
+        "genius",
+        "hair",
+        "old",
+        "dead",
+        "facial-hair",
+        "moustache",
+        "big-hair",
+        "crazy-hair",
+        "wise"
+      ]
+    },
+    {
+      "key": "tesla",
+      "name": "Nikola Tesla",
+      "wiki": "Nikola Tesla",
+      "emoji": "⚡",
+      "tags": [
+        "scientist",
+        "person",
+        "inventor",
+        "thin",
+        "moustache",
+        "facial-hair",
+        "dead",
+        "suit",
+        "genius",
+        "tall"
+      ]
+    },
+    {
+      "key": "marie-curie",
+      "name": "Marie Curie",
+      "wiki": "Marie Curie",
+      "emoji": "⚗️",
+      "tags": [
+        "scientist",
+        "person",
+        "woman",
+        "dead",
+        "nobel",
+        "genius",
+        "hair",
+        "serious"
+      ]
+    },
+    {
+      "key": "frida-kahlo",
+      "name": "Frida Kahlo",
+      "wiki": "Frida Kahlo",
+      "emoji": "🌺",
+      "tags": [
+        "artist",
+        "person",
+        "woman",
+        "flowers",
+        "dead",
+        "painter",
+        "mexican",
+        "unibrow",
+        "hair",
+        "colourful",
+        "eyebrow",
+        "facial-hair"
+      ]
+    },
+    {
+      "key": "van-gogh",
+      "name": "Vincent van Gogh",
+      "wiki": "Vincent van Gogh",
+      "emoji": "🌻",
+      "tags": [
+        "artist",
+        "person",
+        "painter",
+        "dead",
+        "dutch",
+        "redhead",
+        "red-hair",
+        "grumpy",
+        "hair"
+      ]
+    },
+    {
+      "key": "salvador-dali",
+      "name": "Salvador Dalí",
+      "wiki": "Salvador Dalí",
+      "emoji": "🕰️",
+      "tags": [
+        "artist",
+        "person",
+        "painter",
+        "moustache",
+        "facial-hair",
+        "weird",
+        "dead",
+        "spanish",
+        "hair",
+        "crazy-eyes"
+      ]
+    },
+    {
+      "key": "chaplin",
+      "name": "Charlie Chaplin",
+      "wiki": "Charlie Chaplin",
+      "emoji": "🎩",
+      "tags": [
+        "actor",
+        "person",
+        "hat",
+        "moustache",
+        "facial-hair",
+        "dead",
+        "silent",
+        "cane",
+        "black",
+        "funny",
+        "no-words",
+        "bowler-hat"
+      ]
+    },
+    {
+      "key": "napoleon",
+      "name": "Napoleon",
+      "wiki": "Napoleon",
+      "emoji": "🎩",
+      "tags": [
+        "leader",
+        "person",
+        "hat",
+        "short",
+        "dead",
+        "french",
+        "soldier",
+        "emperor",
+        "royalty",
+        "bicorne-hat"
+      ]
+    },
+    {
+      "key": "cleopatra",
+      "name": "Cleopatra",
+      "wiki": "Cleopatra",
+      "emoji": "👑",
+      "tags": [
+        "royalty",
+        "person",
+        "woman",
+        "queen",
+        "dead",
+        "egypt",
+        "crown",
+        "leader",
+        "queen-of-egypt"
+      ]
+    },
+    {
+      "key": "queen-elizabeth",
+      "name": "Queen Elizabeth II",
+      "wiki": "Elizabeth II",
+      "emoji": "👑",
+      "tags": [
+        "royalty",
+        "person",
+        "woman",
+        "queen",
+        "old",
+        "crown",
+        "dead",
+        "hat",
+        "british",
+        "queen"
+      ]
+    },
+    {
+      "key": "obama",
+      "name": "Barack Obama",
+      "wiki": "Barack Obama",
+      "emoji": "🇺🇸",
+      "tags": [
+        "leader",
+        "person",
+        "president",
+        "suit",
+        "smile",
+        "mic",
+        "american",
+        "politician"
+      ]
+    },
+    {
+      "key": "trump",
+      "name": "Donald Trump",
+      "wiki": "Donald Trump",
+      "emoji": "🇺🇸",
+      "tags": [
+        "leader",
+        "person",
+        "president",
+        "blond",
+        "suit",
+        "tie",
+        "orange",
+        "american",
+        "politician",
+        "hair"
+      ]
+    },
+    {
+      "key": "elon-musk",
+      "name": "Elon Musk",
+      "wiki": "Elon Musk",
+      "emoji": "🚀",
+      "tags": [
+        "business",
+        "person",
+        "space",
+        "rich",
+        "rocket",
+        "ceo",
+        "genius",
+        "controversial"
+      ]
+    },
+    {
+      "key": "steve-jobs",
+      "name": "Steve Jobs",
+      "wiki": "Steve Jobs",
+      "emoji": "🍎",
+      "tags": [
+        "business",
+        "person",
+        "glasses",
+        "beard",
+        "facial-hair",
+        "turtleneck",
+        "dead",
+        "apple",
+        "tech",
+        "ceo",
+        "genius"
+      ]
+    },
+    {
+      "key": "bill-gates",
+      "name": "Bill Gates",
+      "wiki": "Bill Gates",
+      "emoji": "🪟",
+      "tags": [
+        "business",
+        "person",
+        "glasses",
+        "rich",
+        "tech",
+        "windows",
+        "sweater",
+        "genius",
+        "ceo"
+      ]
+    },
+    {
+      "key": "cristiano-ronaldo",
+      "name": "Cristiano Ronaldo",
+      "wiki": "Cristiano Ronaldo",
+      "emoji": "⚽",
+      "tags": [
+        "athlete",
+        "person",
+        "football",
+        "muscles",
+        "portuguese",
+        "hair",
+        "soccer",
+        "athletic",
+        "muscular"
+      ]
+    },
+    {
+      "key": "messi",
+      "name": "Lionel Messi",
+      "wiki": "Lionel Messi",
+      "emoji": "⚽",
+      "tags": [
+        "athlete",
+        "person",
+        "football",
+        "short",
+        "beard",
+        "facial-hair",
+        "argentinian",
+        "soccer",
+        "goat",
+        "hair"
+      ]
+    },
+    {
+      "key": "maradona",
+      "name": "Diego Maradona",
+      "wiki": "Diego Maradona",
+      "emoji": "⚽",
+      "tags": [
+        "athlete",
+        "person",
+        "football",
+        "argentinian",
+        "dead",
+        "hair",
+        "soccer",
+        "hair",
+        "curly-hair",
+        "genius"
+      ]
+    },
+    {
+      "key": "mike-tyson",
+      "name": "Mike Tyson",
+      "wiki": "Mike Tyson",
+      "emoji": "🥊",
+      "tags": [
+        "athlete",
+        "person",
+        "boxer",
+        "tattoo",
+        "muscles",
+        "strong",
+        "fighter",
+        "tough"
+      ]
+    },
+    {
+      "key": "bruce-lee",
+      "name": "Bruce Lee",
+      "wiki": "Bruce Lee",
+      "emoji": "🥋",
+      "tags": [
+        "actor",
+        "person",
+        "fighter",
+        "martial-arts",
+        "dead",
+        "yellow",
+        "muscles",
+        "martial-artist",
+        "tough",
+        "fast"
+      ]
+    },
+    {
+      "key": "jackie-chan",
+      "name": "Jackie Chan",
+      "wiki": "Jackie Chan",
+      "emoji": "🤸",
+      "tags": [
+        "actor",
+        "person",
+        "fighter",
+        "martial-arts",
+        "funny",
+        "asian",
+        "martial-artist",
+        "hair",
+        "fast"
+      ]
+    },
+    {
+      "key": "mrbeast",
+      "name": "MrBeast",
+      "wiki": "MrBeast",
+      "emoji": "💵",
+      "tags": [
+        "youtuber",
+        "person",
+        "rich",
+        "money",
+        "young",
+        "blond",
+        "hair"
+      ]
+    },
+    {
+      "key": "taylor-swift",
+      "name": "Taylor Swift",
+      "wiki": "Taylor Swift",
+      "emoji": "🎶",
+      "tags": [
+        "musician",
+        "person",
+        "singer",
+        "blond",
+        "tall",
+        "woman",
+        "pop-star",
+        "hair"
+      ]
+    },
+    {
+      "key": "beyonce",
+      "name": "Beyoncé",
+      "wiki": "Beyoncé",
+      "emoji": "👑",
+      "tags": [
+        "musician",
+        "person",
+        "singer",
+        "woman",
+        "queen",
+        "hair",
+        "pop-star",
+        "diva",
+        "big-hair"
+      ]
+    },
+    {
+      "key": "lady-gaga",
+      "name": "Lady Gaga",
+      "wiki": "Lady Gaga",
+      "emoji": "🎤",
+      "tags": [
+        "musician",
+        "person",
+        "singer",
+        "woman",
+        "weird",
+        "colourful",
+        "blond",
+        "pop-star",
+        "hat"
+      ]
+    },
+    {
+      "key": "billie-eilish",
+      "name": "Billie Eilish",
+      "wiki": "Billie Eilish",
+      "emoji": "💚",
+      "tags": [
+        "musician",
+        "person",
+        "singer",
+        "woman",
+        "young",
+        "green",
+        "hair",
+        "pop-star"
+      ]
+    },
+    {
+      "key": "bad-bunny",
+      "name": "Bad Bunny",
+      "wiki": "Bad Bunny",
+      "emoji": "🐰",
+      "tags": [
+        "musician",
+        "person",
+        "singer",
+        "rapper",
+        "hair",
+        "young",
+        "sunglasses",
+        "rapper-sunglasses",
+        "pop-star"
+      ]
+    },
+    {
+      "key": "shakira",
+      "name": "Shakira",
+      "wiki": "Shakira",
+      "emoji": "🕺",
+      "tags": [
+        "musician",
+        "person",
+        "singer",
+        "woman",
+        "colombian",
+        "blond",
+        "curly",
+        "hair",
+        "pop-star",
+        "big-hair"
+      ]
+    },
+    {
+      "key": "bob-ross",
+      "name": "Bob Ross",
+      "wiki": "Bob Ross",
+      "emoji": "🎨",
+      "tags": [
+        "artist",
+        "person",
+        "painter",
+        "afro",
+        "hair",
+        "calm",
+        "dead",
+        "tv",
+        "big-hair",
+        "gentle",
+        "beard"
+      ]
+    },
+    {
+      "key": "gordon-ramsay",
+      "name": "Gordon Ramsay",
+      "wiki": "Gordon Ramsay",
+      "emoji": "👨‍🍳",
+      "tags": [
+        "chef",
+        "person",
+        "cook",
+        "angry",
+        "blond",
+        "tv",
+        "british",
+        "food",
+        "loud"
+      ]
+    },
+    {
+      "key": "jamie-oliver",
+      "name": "Jamie Oliver",
+      "wiki": "Jamie Oliver",
+      "emoji": "🥗",
+      "tags": [
+        "chef",
+        "person",
+        "cook",
+        "tv",
+        "british",
+        "blond",
+        "food",
+        "hair"
+      ]
+    },
+    {
+      "key": "keanu-reeves",
+      "name": "Keanu Reeves",
+      "wiki": "Keanu Reeves",
+      "emoji": "🕶️",
+      "tags": [
+        "actor",
+        "person",
+        "long-hair",
+        "beard",
+        "facial-hair",
+        "sunglasses",
+        "action-hero",
+        "chill",
+        "hair",
+        "calm"
+      ]
+    },
+    {
+      "key": "the-rock",
+      "name": "Dwayne Johnson",
+      "wiki": "Dwayne Johnson",
+      "emoji": "🪨",
+      "tags": [
+        "actor",
+        "person",
+        "muscles",
+        "bald",
+        "wrestler",
+        "action-hero",
+        "strong",
+        "no-hair",
+        "big",
+        "eyebrow"
+      ]
+    },
+    {
+      "key": "pedro-pascal",
+      "name": "Pedro Pascal",
+      "wiki": "Pedro Pascal",
+      "emoji": "🍄",
+      "tags": [
+        "actor",
+        "person",
+        "beard",
+        "facial-hair",
+        "chilean",
+        "dad",
+        "moustache",
+        "hair"
+      ]
+    },
+    {
+      "key": "ryan-reynolds",
+      "name": "Ryan Reynolds",
+      "wiki": "Ryan Reynolds",
+      "emoji": "🎭",
+      "tags": [
+        "actor",
+        "person",
+        "beard",
+        "facial-hair",
+        "funny",
+        "canadian",
+        "muscles",
+        "action-hero",
+        "deadpool"
+      ]
+    },
+    {
+      "key": "morgan-freeman",
+      "name": "Morgan Freeman",
+      "wiki": "Morgan Freeman",
+      "emoji": "🎙️",
+      "tags": [
+        "actor",
+        "person",
+        "old",
+        "beard",
+        "facial-hair",
+        "narrator",
+        "deep-voice",
+        "wise",
+        "grey-hair",
+        "voice"
+      ]
+    },
+    {
+      "key": "di-caprio",
+      "name": "Leonardo DiCaprio",
+      "wiki": "Leonardo DiCaprio",
+      "emoji": "🚢",
+      "tags": [
+        "actor",
+        "person",
+        "blond",
+        "suit",
+        "young",
+        "oscar",
+        "hair",
+        "titanic",
+        "handsome"
+      ]
+    },
+    {
+      "key": "brad-pitt",
+      "name": "Brad Pitt",
+      "wiki": "Brad Pitt",
+      "emoji": "🎬",
+      "tags": [
+        "actor",
+        "person",
+        "blond",
+        "muscles",
+        "beard",
+        "facial-hair",
+        "action-hero",
+        "hair",
+        "handsome"
+      ]
+    },
+    {
+      "key": "michael-jackson",
+      "name": "Michael Jackson",
+      "wiki": "Michael Jackson",
+      "emoji": "🕴️",
+      "tags": [
+        "musician",
+        "person",
+        "singer",
+        "hat",
+        "glove",
+        "dead",
+        "fedora",
+        "dancer",
+        "pop-star",
+        "hair",
+        "genius"
+      ]
+    },
+    {
+      "key": "elvis",
+      "name": "Elvis Presley",
+      "wiki": "Elvis Presley",
+      "emoji": "🎸",
+      "tags": [
+        "musician",
+        "person",
+        "singer",
+        "hair",
+        "sideburns",
+        "glasses",
+        "dead",
+        "rock",
+        "quiff",
+        "jumpsuit",
+        "sequins",
+        "pop-star"
+      ]
+    },
+    {
+      "key": "marilyn-monroe",
+      "name": "Marilyn Monroe",
+      "wiki": "Marilyn Monroe",
+      "emoji": "💋",
+      "tags": [
+        "actor",
+        "person",
+        "woman",
+        "blond",
+        "curls",
+        "dead",
+        "beauty",
+        "hair",
+        "icon",
+        "curly"
+      ]
+    },
+    {
+      "key": "audrey-hepburn",
+      "name": "Audrey Hepburn",
+      "wiki": "Audrey Hepburn",
+      "emoji": "🎀",
+      "tags": [
+        "actor",
+        "person",
+        "woman",
+        "thin",
+        "dead",
+        "elegant",
+        "hat",
+        "british",
+        "icon"
+      ]
+    },
+    {
+      "key": "mr-t",
+      "name": "Mr. T",
+      "wiki": "Mr. T",
+      "emoji": "⛓️",
+      "tags": [
+        "actor",
+        "person",
+        "muscles",
+        "mohawk",
+        "hair",
+        "gold",
+        "chains",
+        "beard",
+        "facial-hair",
+        "tough",
+        "strong",
+        "big-hair"
+      ]
+    },
+    {
+      "key": "stallone",
+      "name": "Sylvester Stallone",
+      "wiki": "Sylvester Stallone",
+      "emoji": "🥊",
+      "tags": [
+        "actor",
+        "person",
+        "muscles",
+        "action-hero",
+        "old",
+        "boxer",
+        "strong",
+        "hair"
+      ]
+    },
+    {
+      "key": "danny-trejo",
+      "name": "Danny Trejo",
+      "wiki": "Danny Trejo",
+      "emoji": "🔪",
+      "tags": [
+        "actor",
+        "person",
+        "tattoo",
+        "moustache",
+        "facial-hair",
+        "villain",
+        "muscles",
+        "old",
+        "tough",
+        "scary"
+      ]
+    },
+    {
+      "key": "stephen-hawking",
+      "name": "Stephen Hawking",
+      "wiki": "Stephen Hawking",
+      "emoji": "🌌",
+      "tags": [
+        "scientist",
+        "person",
+        "physicist",
+        "glasses",
+        "dead",
+        "space",
+        "genius",
+        "wise"
+      ]
+    },
+    {
+      "key": "che-guevara",
+      "name": "Che Guevara",
+      "wiki": "Che Guevara",
+      "emoji": "🎖️",
+      "tags": [
+        "leader",
+        "person",
+        "hat",
+        "beard",
+        "facial-hair",
+        "dead",
+        "argentinian",
+        "beret",
+        "hair",
+        "revolutionary",
+        "icon"
+      ]
+    },
+    {
+      "key": "mozart",
+      "name": "Wolfgang Amadeus Mozart",
+      "wiki": "Wolfgang Amadeus Mozart",
+      "emoji": "🎼",
+      "tags": [
+        "musician",
+        "person",
+        "composer",
+        "wig",
+        "dead",
+        "genius",
+        "austrian",
+        "hair",
+        "wig-hair"
+      ]
+    },
+    {
+      "key": "david-attenborough",
+      "name": "David Attenborough",
+      "wiki": "David Attenborough",
+      "emoji": "🦜",
+      "tags": [
+        "person",
+        "old",
+        "nature",
+        "glasses",
+        "tv",
+        "british",
+        "wise",
+        "grey-hair",
+        "white-hair",
+        "narrator",
+        "voice"
+      ]
+    },
+    {
+      "key": "stephen-king",
+      "name": "Stephen King",
+      "wiki": "Stephen King",
+      "emoji": "📚",
+      "tags": [
+        "artist",
+        "person",
+        "writer",
+        "glasses",
+        "beard",
+        "white-hair",
+        "horror",
+        "hair",
+        "scary"
+      ]
+    }
+  ],
+  "pairings": [
+    {
+      "clue": "Both of your characters are completely bald.",
+      "category": "Bald",
+      "a": "kratos",
+      "b": "dr-eggman",
+      "traits": [
+        "bald",
+        "no-hair"
+      ]
+    },
+    {
+      "clue": "Both of your characters are bald and very strong.",
+      "category": "Bald",
+      "a": "thanos",
+      "b": "the-rock",
+      "traits": [
+        "bald",
+        "strong"
+      ]
+    },
+    {
+      "clue": "Both of your characters are short and bald.",
+      "category": "Bald",
+      "a": "danny-devito",
+      "b": "gru",
+      "traits": [
+        "bald",
+        "no-hair"
+      ]
+    },
+    {
+      "clue": "Both of your characters have an enormous moustache.",
+      "category": "Facial hair",
+      "a": "salvador-dali",
+      "b": "waluigi",
+      "traits": [
+        "moustache",
+        "facial-hair"
+      ]
+    },
+    {
+      "clue": "Both of your characters have a famous moustache.",
+      "category": "Facial hair",
+      "a": "dr-eggman",
+      "b": "freddie-mercury",
+      "traits": [
+        "moustache",
+        "facial-hair"
+      ]
+    },
+    {
+      "clue": "Both of your characters have a big beard.",
+      "category": "Facial hair",
+      "a": "gandalf",
+      "b": "hagrid",
+      "traits": [
+        "beard",
+        "facial-hair"
+      ]
+    },
+    {
+      "clue": "Both of your characters are green and grumpy.",
+      "category": "Green",
+      "a": "grinch",
+      "b": "bowser",
+      "traits": [
+        "green",
+        "grumpy"
+      ]
+    },
+    {
+      "clue": "Both of your characters are big and green.",
+      "category": "Green",
+      "a": "shrek",
+      "b": "hulk",
+      "traits": [
+        "green",
+        "big"
+      ]
+    },
+    {
+      "clue": "Both of your characters are tiny and green.",
+      "category": "Green",
+      "a": "yoda",
+      "b": "grogu",
+      "traits": [
+        "green",
+        "tiny"
+      ]
+    },
+    {
+      "clue": "Both of your characters are green and have a big grin.",
+      "category": "Green",
+      "a": "slimer",
+      "b": "grinch",
+      "traits": [
+        "green"
+      ]
+    },
+    {
+      "clue": "Both of your characters are giant alien warlords.",
+      "category": "Aliens",
+      "a": "thanos",
+      "b": "jabba",
+      "traits": [
+        "alien",
+        "villain"
+      ]
+    },
+    {
+      "clue": "Both of your characters are extremely small and carry a weapon.",
+      "category": "Tiny",
+      "a": "puss-in-boots",
+      "b": "yoda",
+      "traits": [
+        "tiny",
+        "weapon"
+      ]
+    },
+    {
+      "clue": "Both of your characters are extremely small and blue.",
+      "category": "Tiny",
+      "a": "mr-meeseeks",
+      "b": "stitch",
+      "traits": [
+        "tiny",
+        "blue"
+      ]
+    },
+    {
+      "clue": "Both of your characters are extremely small and evil.",
+      "category": "Tiny",
+      "a": "stewie-griffin",
+      "b": "chucky",
+      "traits": [
+        "tiny",
+        "evil"
+      ]
+    },
+    {
+      "clue": "Both of your characters are small, round and always hungry.",
+      "category": "Round",
+      "a": "pac-man",
+      "b": "kirby",
+      "traits": [
+        "round",
+        "hungry"
+      ]
+    },
+    {
+      "clue": "Both of your characters are round and pink.",
+      "category": "Round",
+      "a": "jigglypuff",
+      "b": "kirby",
+      "traits": [
+        "round",
+        "pink"
+      ]
+    },
+    {
+      "clue": "Both of your characters are extremely lazy.",
+      "category": "Lazy",
+      "a": "snorlax",
+      "b": "slowpoke",
+      "traits": [
+        "lazy"
+      ]
+    },
+    {
+      "clue": "Both of your characters are round, floating and always grinning.",
+      "category": "Round",
+      "a": "slimer",
+      "b": "gengar",
+      "traits": [
+        "round"
+      ]
+    },
+    {
+      "clue": "Both of your characters are robots.",
+      "category": "Robots",
+      "a": "bender",
+      "b": "wall-e",
+      "traits": [
+        "robot"
+      ]
+    },
+    {
+      "clue": "Both of your characters are famous movie robots.",
+      "category": "Robots",
+      "a": "wall-e",
+      "b": "optimus-prime",
+      "traits": [
+        "robot",
+        "movie"
+      ]
+    },
+    {
+      "clue": "Both of your characters travel through space.",
+      "category": "Space",
+      "a": "master-chief",
+      "b": "among-us",
+      "traits": [
+        "space"
+      ]
+    },
+    {
+      "clue": "Both of your characters wear a mask and never show their face.",
+      "category": "Masks",
+      "a": "master-chief",
+      "b": "darth-vader",
+      "traits": [
+        "mask",
+        "helmet"
+      ]
+    },
+    {
+      "clue": "Both of your characters wear a mask and carry a weapon.",
+      "category": "Masks",
+      "a": "jason-voorhees",
+      "b": "bane",
+      "traits": [
+        "mask",
+        "villain-mask"
+      ]
+    },
+    {
+      "clue": "Both of your characters are masked Marvel heroes.",
+      "category": "Masks",
+      "a": "deadpool",
+      "b": "wolverine",
+      "traits": [
+        "mask",
+        "hero",
+        "comic"
+      ]
+    },
+    {
+      "clue": "Both of your characters are famous clowns.",
+      "category": "Clowns",
+      "a": "krusty-the-clown",
+      "b": "pennywise",
+      "traits": [
+        "clown"
+      ]
+    },
+    {
+      "clue": "Both of your characters have wild, colourful hair.",
+      "category": "Hair",
+      "a": "krusty-the-clown",
+      "b": "animal-muppet",
+      "traits": [
+        "hair"
+      ]
+    },
+    {
+      "clue": "Both of your characters are terrifying movie killers.",
+      "category": "Horror",
+      "a": "michael-myers",
+      "b": "freddy-krueger",
+      "traits": [
+        "scary",
+        "movie",
+        "villain"
+      ]
+    },
+    {
+      "clue": "Both of your characters have a habit of dying and coming back.",
+      "category": "Horror",
+      "a": "deadpool",
+      "b": "kenny",
+      "traits": [
+        "immortal"
+      ]
+    },
+    {
+      "clue": "Both of your characters have bright red hair.",
+      "category": "Red hair",
+      "a": "sideshow-bob",
+      "b": "chucky",
+      "traits": [
+        "redhead",
+        "red-hair"
+      ]
+    },
+    {
+      "clue": "Both of your characters have very famous red hair.",
+      "category": "Red hair",
+      "a": "van-gogh",
+      "b": "mystique",
+      "traits": [
+        "red-hair"
+      ]
+    },
+    {
+      "clue": "Both of your characters wear a purple cape.",
+      "category": "Capes",
+      "a": "count-von-count",
+      "b": "magneto",
+      "traits": [
+        "purple",
+        "cape"
+      ]
+    },
+    {
+      "clue": "Both of your characters are wizards with a long beard.",
+      "category": "Wizards",
+      "a": "gandalf",
+      "b": "dumbledore",
+      "traits": [
+        "wizard",
+        "beard"
+      ]
+    },
+    {
+      "clue": "Both of your characters wear a tall pointy hat.",
+      "category": "Hats",
+      "a": "gandalf",
+      "b": "mcgonagall",
+      "traits": [
+        "pointy-hat",
+        "hat"
+      ]
+    },
+    {
+      "clue": "Both of your characters wear a very recognizable hat.",
+      "category": "Hats",
+      "a": "napoleon",
+      "b": "che-guevara",
+      "traits": [
+        "hat"
+      ]
+    },
+    {
+      "clue": "Both of your characters wear glasses.",
+      "category": "Glasses",
+      "a": "milhouse",
+      "b": "jeff-goldblum",
+      "traits": [
+        "glasses"
+      ]
+    },
+    {
+      "clue": "Both of your characters are famous for wearing glasses.",
+      "category": "Glasses",
+      "a": "dumbledore",
+      "b": "elton-john",
+      "traits": [
+        "glasses"
+      ]
+    },
+    {
+      "clue": "Both of your characters are famous tech billionaires.",
+      "category": "Business",
+      "a": "steve-jobs",
+      "b": "bill-gates",
+      "traits": [
+        "business",
+        "tech"
+      ]
+    },
+    {
+      "clue": "Both of your characters are genius scientists with wild hair.",
+      "category": "Science",
+      "a": "einstein",
+      "b": "rick-sanchez",
+      "traits": [
+        "scientist",
+        "genius",
+        "crazy-hair"
+      ]
+    },
+    {
+      "clue": "Both of your characters are famous scientists.",
+      "category": "Science",
+      "a": "marie-curie",
+      "b": "tesla",
+      "traits": [
+        "scientist"
+      ]
+    },
+    {
+      "clue": "Both of your characters are doctors, but not very good ones.",
+      "category": "Science",
+      "a": "zoidberg",
+      "b": "dr-eggman",
+      "traits": [
+        "doctor"
+      ]
+    },
+    {
+      "clue": "Both of your characters are famous painters.",
+      "category": "Art",
+      "a": "van-gogh",
+      "b": "bob-ross",
+      "traits": [
+        "painter",
+        "artist"
+      ]
+    },
+    {
+      "clue": "Both of your characters are painters with a very distinctive face.",
+      "category": "Art",
+      "a": "frida-kahlo",
+      "b": "salvador-dali",
+      "traits": [
+        "painter"
+      ]
+    },
+    {
+      "clue": "Both of your characters have enormous, iconic hair.",
+      "category": "Hair",
+      "a": "bob-ross",
+      "b": "mr-t",
+      "traits": [
+        "hair",
+        "big-hair"
+      ]
+    },
+    {
+      "clue": "Both of your characters are very chill musicians.",
+      "category": "Music",
+      "a": "bob-marley",
+      "b": "snoop-dogg",
+      "traits": [
+        "musician",
+        "chill"
+      ]
+    },
+    {
+      "clue": "Both of your characters are famous for their eyebrows.",
+      "category": "Face",
+      "a": "frida-kahlo",
+      "b": "the-rock",
+      "traits": [
+        "eyebrow"
+      ]
+    },
+    {
+      "clue": "Both of your characters have an iconic deep voice.",
+      "category": "Voice",
+      "a": "morgan-freeman",
+      "b": "darth-vader",
+      "traits": [
+        "deep-voice"
+      ]
+    },
+    {
+      "clue": "Both of your characters never speak.",
+      "category": "Silent",
+      "a": "mr-bean",
+      "b": "chaplin",
+      "traits": [
+        "no-words",
+        "silent"
+      ]
+    },
+    {
+      "clue": "Both of your characters are British icons.",
+      "category": "British",
+      "a": "mr-bean",
+      "b": "queen-elizabeth",
+      "traits": [
+        "british"
+      ]
+    },
+    {
+      "clue": "Both of your characters are famous food mascots.",
+      "category": "Mascots",
+      "a": "mr-peanut",
+      "b": "julius-pringles",
+      "traits": [
+        "mascot",
+        "food"
+      ]
+    },
+    {
+      "clue": "Both of your characters are red, round and very loud.",
+      "category": "Red",
+      "a": "kool-aid-man",
+      "b": "red-angry-bird",
+      "traits": [
+        "red",
+        "round",
+        "loud"
+      ]
+    },
+    {
+      "clue": "Both of your characters are famous cats.",
+      "category": "Cats",
+      "a": "puss-in-boots",
+      "b": "meowth",
+      "traits": [
+        "cat",
+        "animal"
+      ]
+    },
+    {
+      "clue": "Both of your characters are cat-themed and wear boots.",
+      "category": "Cats",
+      "a": "catwoman",
+      "b": "puss-in-boots",
+      "traits": [
+        "cat-themed"
+      ]
+    },
+    {
+      "clue": "Both of your characters are talking animals who are sidekicks.",
+      "category": "Animals",
+      "a": "donkey",
+      "b": "brian-griffin",
+      "traits": [
+        "talking-animal",
+        "sidekick"
+      ]
+    },
+    {
+      "clue": "Both of your characters are yellow talking animals.",
+      "category": "Animals",
+      "a": "psyduck",
+      "b": "meowth",
+      "traits": [
+        "yellow",
+        "animal"
+      ]
+    },
+    {
+      "clue": "Both of your characters are blue and furry.",
+      "category": "Furry",
+      "a": "cookie-monster",
+      "b": "stitch",
+      "traits": [
+        "blue",
+        "furry"
+      ]
+    },
+    {
+      "clue": "Both of your characters are friendly monsters from the same TV show.",
+      "category": "Furry",
+      "a": "grover",
+      "b": "cookie-monster",
+      "traits": [
+        "tv",
+        "monster"
+      ]
+    },
+    {
+      "clue": "Both of your characters are small animals from video games.",
+      "category": "Games",
+      "a": "psyduck",
+      "b": "bulbasaur",
+      "traits": [
+        "game",
+        "animal",
+        "small"
+      ]
+    },
+    {
+      "clue": "Both of your characters are cute video game reptiles.",
+      "category": "Games",
+      "a": "yoshi",
+      "b": "charmander",
+      "traits": [
+        "reptile",
+        "cute"
+      ]
+    },
+    {
+      "clue": "Both of your characters are video game turtles.",
+      "category": "Games",
+      "a": "bowser",
+      "b": "koopa-troopa",
+      "traits": [
+        "turtle",
+        "shell"
+      ]
+    },
+    {
+      "clue": "Both of your characters are villains from Nintendo games.",
+      "category": "Games",
+      "a": "wario",
+      "b": "bowser",
+      "traits": [
+        "nintendo",
+        "villain"
+      ]
+    },
+    {
+      "clue": "Both of your characters wear purple.",
+      "category": "Purple",
+      "a": "waluigi",
+      "b": "gengar",
+      "traits": [
+        "purple"
+      ]
+    },
+    {
+      "clue": "Both of your characters are covered in plants.",
+      "category": "Plants",
+      "a": "poison-ivy",
+      "b": "groot",
+      "traits": [
+        "plant"
+      ]
+    },
+    {
+      "clue": "Both of your characters are mutants.",
+      "category": "Mutants",
+      "a": "wolverine",
+      "b": "mystique",
+      "traits": [
+        "mutant"
+      ]
+    },
+    {
+      "clue": "Both of your characters are red and extremely strong.",
+      "category": "Red",
+      "a": "kool-aid-man",
+      "b": "knuckles",
+      "traits": [
+        "red",
+        "strong"
+      ]
+    },
+    {
+      "clue": "Both of your characters wear a cape.",
+      "category": "Heroes",
+      "a": "doctor-strange",
+      "b": "darth-vader",
+      "traits": [
+        "cape"
+      ]
+    },
+    {
+      "clue": "Both of your characters are rich businessmen.",
+      "category": "Business",
+      "a": "elon-musk",
+      "b": "bill-gates",
+      "traits": [
+        "business",
+        "rich"
+      ]
+    },
+    {
+      "clue": "Both of your characters are US presidents.",
+      "category": "Politics",
+      "a": "obama",
+      "b": "trump",
+      "traits": [
+        "president",
+        "leader"
+      ]
+    },
+    {
+      "clue": "Both of your characters were queens.",
+      "category": "Royalty",
+      "a": "cleopatra",
+      "b": "queen-elizabeth",
+      "traits": [
+        "queen",
+        "royalty",
+        "crown"
+      ]
+    },
+    {
+      "clue": "Both of your characters wear a crown.",
+      "category": "Royalty",
+      "a": "princess-peach",
+      "b": "cleopatra",
+      "traits": [
+        "crown",
+        "royalty"
+      ]
+    },
+    {
+      "clue": "Both of your characters are famous chefs.",
+      "category": "Chefs",
+      "a": "gordon-ramsay",
+      "b": "jamie-oliver",
+      "traits": [
+        "chef",
+        "cook",
+        "food"
+      ]
+    },
+    {
+      "clue": "Both of your characters are football legends.",
+      "category": "Sports",
+      "a": "messi",
+      "b": "cristiano-ronaldo",
+      "traits": [
+        "football",
+        "athlete"
+      ]
+    },
+    {
+      "clue": "Both of your characters are Argentine legends.",
+      "category": "Sports",
+      "a": "messi",
+      "b": "maradona",
+      "traits": [
+        "argentinian",
+        "football"
+      ]
+    },
+    {
+      "clue": "Both of your characters are extremely muscular action stars.",
+      "category": "Action",
+      "a": "arnold",
+      "b": "the-rock",
+      "traits": [
+        "action-hero",
+        "muscles"
+      ]
+    },
+    {
+      "clue": "Both of your characters are famous for fighting.",
+      "category": "Action",
+      "a": "mike-tyson",
+      "b": "mr-t",
+      "traits": [
+        "tough",
+        "strong"
+      ]
+    },
+    {
+      "clue": "Both of your characters are legendary martial artists.",
+      "category": "Action",
+      "a": "bruce-lee",
+      "b": "jackie-chan",
+      "traits": [
+        "martial-artist",
+        "fighter"
+      ]
+    },
+    {
+      "clue": "Both of your characters are rock legends.",
+      "category": "Music",
+      "a": "ozzy-osbourne",
+      "b": "freddie-mercury",
+      "traits": [
+        "rocker",
+        "rock"
+      ]
+    },
+    {
+      "clue": "Both of your characters are pop stars who reinvented their look.",
+      "category": "Music",
+      "a": "lady-gaga",
+      "b": "david-bowie",
+      "traits": [
+        "colourful",
+        "pop-star"
+      ]
+    },
+    {
+      "clue": "Both of your characters are singers with incredible hair.",
+      "category": "Music",
+      "a": "shakira",
+      "b": "beyonce",
+      "traits": [
+        "singer",
+        "big-hair"
+      ]
+    },
+    {
+      "clue": "Both of your characters are rappers who love sunglasses.",
+      "category": "Music",
+      "a": "snoop-dogg",
+      "b": "bad-bunny",
+      "traits": [
+        "rapper",
+        "sunglasses"
+      ]
+    },
+    {
+      "clue": "Both of your characters are music legends with a signature look.",
+      "category": "Music",
+      "a": "michael-jackson",
+      "b": "elvis",
+      "traits": [
+        "pop-star",
+        "musician"
+      ]
+    },
+    {
+      "clue": "Both of your characters have beards and are very funny.",
+      "category": "Comedy",
+      "a": "jack-black",
+      "b": "seth-rogen",
+      "traits": [
+        "beard",
+        "funny"
+      ]
+    },
+    {
+      "clue": "Both of your characters are known for being incredibly calm.",
+      "category": "Chill",
+      "a": "bob-ross",
+      "b": "keanu-reeves",
+      "traits": [
+        "calm"
+      ]
+    },
+    {
+      "clue": "Both of your characters are grumpy and old.",
+      "category": "Grumpy",
+      "a": "moe-szyslak",
+      "b": "groundskeeper-willie",
+      "traits": [
+        "grumpy"
+      ]
+    },
+    {
+      "clue": "Both of your characters love beer.",
+      "category": "Beer",
+      "a": "barney-gumble",
+      "b": "bender",
+      "traits": [
+        "beer",
+        "drinker"
+      ]
+    },
+    {
+      "clue": "Both of your characters are famous babies.",
+      "category": "Babies",
+      "a": "stewie-griffin",
+      "b": "grogu",
+      "traits": [
+        "baby",
+        "tiny"
+      ]
+    },
+    {
+      "clue": "Both of your characters are little kids who always wear the same thing.",
+      "category": "Kids",
+      "a": "cartman",
+      "b": "kenny",
+      "traits": [
+        "child",
+        "hat-or-hood"
+      ]
+    },
+    {
+      "clue": "Both of your characters are old, wise and very powerful.",
+      "category": "Wise",
+      "a": "gandalf",
+      "b": "yoda",
+      "traits": [
+        "wise",
+        "old"
+      ]
+    },
+    {
+      "clue": "Both of your characters have a beard and use magic powers.",
+      "category": "Magic",
+      "a": "obi-wan",
+      "b": "doctor-strange",
+      "traits": [
+        "beard",
+        "magic-user"
+      ]
+    },
+    {
+      "clue": "Both of your characters are gigantic.",
+      "category": "Big",
+      "a": "donkey-kong",
+      "b": "stay-puft",
+      "traits": [
+        "big"
+      ]
+    },
+    {
+      "clue": "Both of your characters are very tall and hairy.",
+      "category": "Big",
+      "a": "chewbacca",
+      "b": "hagrid",
+      "traits": [
+        "tall",
+        "hair"
+      ]
+    },
+    {
+      "clue": "Both of your characters are blue and always wear red.",
+      "category": "Blue",
+      "a": "thomas-tank",
+      "b": "grover",
+      "traits": [
+        "blue"
+      ]
+    },
+    {
+      "clue": "Both of your characters always wear a hat.",
+      "category": "Hats",
+      "a": "toad",
+      "b": "cartman",
+      "traits": [
+        "hat"
+      ]
+    },
+    {
+      "clue": "Both of your characters are yellow.",
+      "category": "Yellow",
+      "a": "pac-man",
+      "b": "psyduck",
+      "traits": [
+        "yellow"
+      ]
+    },
+    {
+      "clue": "Both of your characters are extremely nice and a bit naive.",
+      "category": "Nice",
+      "a": "ned-flanders",
+      "b": "butters",
+      "traits": [
+        "naive"
+      ]
+    },
+    {
+      "clue": "Both of your characters work for a very rich man.",
+      "category": "Servants",
+      "a": "alfred",
+      "b": "smithers",
+      "traits": [
+        "servant"
+      ]
+    },
+    {
+      "clue": "Both of your characters are red and black.",
+      "category": "Red",
+      "a": "darth-maul",
+      "b": "shadow-hedgehog",
+      "traits": [
+        "red",
+        "black"
+      ]
+    },
+    {
+      "clue": "Both of your characters are Batman villains.",
+      "category": "Comic",
+      "a": "the-riddler",
+      "b": "two-face",
+      "traits": [
+        "villain",
+        "comic"
+      ]
+    },
+    {
+      "clue": "Both of your characters wear a mask and love to scare people.",
+      "category": "Scary",
+      "a": "scarecrow",
+      "b": "jason-voorhees",
+      "traits": [
+        "mask",
+        "scary"
+      ]
+    },
+    {
+      "clue": "Both of your characters are Muppets.",
+      "category": "Puppets",
+      "a": "bert-ernie",
+      "b": "cookie-monster",
+      "traits": [
+        "muppet",
+        "puppet"
+      ]
+    },
+    {
+      "clue": "Both of your characters are iconic British children's TV characters.",
+      "category": "British",
+      "a": "peppa-pig",
+      "b": "thomas-tank",
+      "traits": [
+        "british",
+        "tv"
+      ]
+    },
+    {
+      "clue": "Both of your characters have blades where their hands should be.",
+      "category": "Scary",
+      "a": "edward-scissorhands",
+      "b": "freddy-krueger",
+      "traits": [
+        "blades"
+      ]
+    },
+    {
+      "clue": "Both of your characters are Transformers.",
+      "category": "Robots",
+      "a": "optimus-prime",
+      "b": "bumblebee",
+      "traits": [
+        "robot",
+        "vehicle",
+        "alien"
+      ]
+    },
+    {
+      "clue": "Both of your characters are Sonic's animal friends.",
+      "category": "Games",
+      "a": "tails",
+      "b": "knuckles",
+      "traits": [
+        "game",
+        "animal"
+      ]
+    },
+    {
+      "clue": "Both of your characters are water Pokémon.",
+      "category": "Games",
+      "a": "magikarp",
+      "b": "psyduck",
+      "traits": [
+        "water",
+        "pokemon"
+      ]
+    },
+    {
+      "clue": "Both of your characters are cute quadruped Pokémon.",
+      "category": "Games",
+      "a": "eevee",
+      "b": "slowpoke",
+      "traits": [
+        "quadruped",
+        "pokemon",
+        "cute"
+      ]
+    },
+    {
+      "clue": "Both of your characters are small, round and cute video game heroes.",
+      "category": "Games",
+      "a": "sackboy",
+      "b": "kirby",
+      "traits": [
+        "game",
+        "cute",
+        "small"
+      ]
+    },
+    {
+      "clue": "Both of your characters are video game characters who explore and collect things.",
+      "category": "Games",
+      "a": "steve-minecraft",
+      "b": "lara-croft",
+      "traits": [
+        "game"
+      ]
+    },
+    {
+      "clue": "Both of your characters are famous for screaming in movies.",
+      "category": "Comedy",
+      "a": "nicolas-cage",
+      "b": "samuel-l-jackson",
+      "traits": [
+        "loud"
+      ]
+    },
+    {
+      "clue": "Both of your characters are famous for their very deadpan faces.",
+      "category": "Comedy",
+      "a": "steve-buscemi",
+      "b": "bill-murray",
+      "traits": [
+        "deadpan"
+      ]
+    },
+    {
+      "clue": "Both of your characters are extremely rich.",
+      "category": "Business",
+      "a": "mrbeast",
+      "b": "elon-musk",
+      "traits": [
+        "rich"
+      ]
+    },
+    {
+      "clue": "Both of your characters are among the biggest pop stars alive.",
+      "category": "Music",
+      "a": "taylor-swift",
+      "b": "beyonce",
+      "traits": [
+        "pop-star",
+        "singer"
+      ]
+    },
+    {
+      "clue": "Both of your characters are fat guys who love beer.",
+      "category": "Beer",
+      "a": "peter-griffin",
+      "b": "barney-gumble",
+      "traits": [
+        "beer",
+        "fat"
+      ]
+    },
+    {
+      "clue": "Both of your characters are from the same cartoon town.",
+      "category": "Cartoon",
+      "a": "quagmire",
+      "b": "brian-griffin",
+      "traits": [
+        "cartoon",
+        "tv"
+      ]
+    },
+    {
+      "clue": "Both of your characters are members of the same space crew.",
+      "category": "Space",
+      "a": "rocket-raccoon",
+      "b": "groot",
+      "traits": [
+        "comic",
+        "hero"
+      ]
+    },
+    {
+      "clue": "Both of your characters are furry monsters who are always hungry.",
+      "category": "Furry",
+      "a": "animal-muppet",
+      "b": "cookie-monster",
+      "traits": [
+        "furry",
+        "hungry"
+      ]
+    },
+    {
+      "clue": "Both of your characters are tough guys with a moustache.",
+      "category": "Facial hair",
+      "a": "chief-wiggum",
+      "b": "danny-trejo",
+      "traits": [
+        "moustache"
+      ]
+    },
+    {
+      "clue": "Both of your characters are children.",
+      "category": "Kids",
+      "a": "wendy-testaburger",
+      "b": "butters",
+      "traits": [
+        "child"
+      ]
+    },
+    {
+      "clue": "Both of your characters are young pop stars.",
+      "category": "Music",
+      "a": "billie-eilish",
+      "b": "bad-bunny",
+      "traits": [
+        "pop-star",
+        "young"
+      ]
+    },
+    {
+      "clue": "Both of your characters are action stars with a beard.",
+      "category": "Action",
+      "a": "pedro-pascal",
+      "b": "keanu-reeves",
+      "traits": [
+        "beard",
+        "facial-hair"
+      ]
+    },
+    {
+      "clue": "Both of your characters are actually the same person.",
+      "category": "Meta",
+      "a": "ryan-reynolds",
+      "b": "deadpool",
+      "traits": [
+        "deadpool"
+      ]
+    },
+    {
+      "clue": "Both of your characters are famous for being handsome.",
+      "category": "Looks",
+      "a": "di-caprio",
+      "b": "brad-pitt",
+      "traits": [
+        "handsome"
+      ]
+    },
+    {
+      "clue": "Both of your characters are iconic Hollywood actresses.",
+      "category": "Cinema",
+      "a": "marilyn-monroe",
+      "b": "audrey-hepburn",
+      "traits": [
+        "actor",
+        "icon"
+      ]
+    },
+    {
+      "clue": "Both of your characters are 1980s action movie legends.",
+      "category": "Action",
+      "a": "stallone",
+      "b": "arnold",
+      "traits": [
+        "action-hero"
+      ]
+    },
+    {
+      "clue": "Both of your characters are the most famous scientists in history.",
+      "category": "Science",
+      "a": "stephen-hawking",
+      "b": "einstein",
+      "traits": [
+        "scientist",
+        "genius"
+      ]
+    },
+    {
+      "clue": "Both of your characters are musical geniuses.",
+      "category": "Music",
+      "a": "mozart",
+      "b": "michael-jackson",
+      "traits": [
+        "musician",
+        "genius"
+      ]
+    },
+    {
+      "clue": "Both of your characters are famous for their voices.",
+      "category": "Voice",
+      "a": "david-attenborough",
+      "b": "morgan-freeman",
+      "traits": [
+        "voice"
+      ]
+    },
+    {
+      "clue": "Both of your characters are horror icons.",
+      "category": "Horror",
+      "a": "stephen-king",
+      "b": "pennywise",
+      "traits": [
+        "horror"
+      ]
+    },
+    {
+      "clue": "Both of your characters work on the same spaceship.",
+      "category": "Space",
+      "a": "turanga-leela",
+      "b": "zoidberg",
+      "traits": [
+        "crew"
+      ]
+    },
+    {
+      "clue": "Both of your characters wear long robes.",
+      "category": "Clothing",
+      "a": "snape",
+      "b": "obi-wan",
+      "traits": [
+        "robe"
+      ]
+    },
+    {
+      "clue": "Both of your characters are white and soft.",
+      "category": "Soft",
+      "a": "olaf",
+      "b": "stay-puft",
+      "traits": [
+        "white"
+      ]
+    },
+    {
+      "clue": "Both of your characters are cheerful mascots who love food.",
+      "category": "Mascots",
+      "a": "tony-the-tiger",
+      "b": "mr-peanut",
+      "traits": [
+        "mascot",
+        "food"
+      ]
+    }
+  ]
+}
