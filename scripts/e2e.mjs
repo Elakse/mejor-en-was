@@ -56,8 +56,13 @@ async function clickIfVisible(locator, timeout = 8000) {
 }
 
 async function main() {
+  const faceFixtureVideo = process.env.FACE_FIXTURE_VIDEO;
   const browser = await chromium.launch({
-    args: ["--use-fake-ui-for-media-stream", "--use-fake-device-for-media-stream"],
+    args: [
+      "--use-fake-ui-for-media-stream",
+      "--use-fake-device-for-media-stream",
+      ...(faceFixtureVideo ? [`--use-file-for-fake-video-capture=${faceFixtureVideo}`] : []),
+    ],
   });
   const phone = await browser.newContext({ ...devices["iPhone 13"] });
   const desktop = await browser.newContext({ viewport: { width: 1280, height: 900 } });
@@ -244,12 +249,35 @@ async function main() {
   const trackingReady = await alice.locator('[data-face-tracking="ready"]').waitFor({ timeout: 20000 })
     .then(() => true).catch(() => false);
   check("on-device face detector loads", trackingReady);
+  if (faceFixtureVideo) {
+    const faceTracked = await alice.locator('[aria-label="Their character card"][data-tracked="true"]')
+      .waitFor({ timeout: 10000 }).then(() => true).catch(() => false);
+    check("portrait face is tracked", faceTracked);
+    if (faceTracked) {
+      const samples = await alice.evaluate(async () => {
+        const card = document.querySelector('[aria-label="Their character card"]');
+        const values = [];
+        for (let i = 0; i < 80; i++) {
+          if (card?.dataset.tracked === "true") {
+            values.push({
+              x: Number.parseFloat(card.style.getPropertyValue("--card-x")),
+              roll: Number.parseFloat(card.style.getPropertyValue("--card-roll")),
+            });
+          }
+          await new Promise((resolve) => setTimeout(resolve, 40));
+        }
+        return values;
+      });
+      const span = (key) => Math.max(...samples.map((sample) => sample[key])) -
+        Math.min(...samples.map((sample) => sample[key]));
+      check("card follows head motion", samples.length > 30 && span("x") > 8);
+      check("card rotates with head tilt", samples.length > 30 && span("roll") > 4);
+    }
+  }
   const cardBox = await alice.getByLabel("Their character card").boundingBox();
   const videoBox = await alice.locator("[data-face-tracking]").boundingBox();
-  check("tracked character card stays inside the video", Boolean(cardBox && videoBox &&
-    cardBox.x >= videoBox.x - 1 && cardBox.y >= videoBox.y - 1 &&
-    cardBox.x + cardBox.width <= videoBox.x + videoBox.width + 1 &&
-    cardBox.y + cardBox.height <= videoBox.y + videoBox.height + 1));
+  check("character card is sized for a forehead", Boolean(cardBox && videoBox &&
+    cardBox.width >= 30 && cardBox.width <= Math.min(130, videoBox.width * 0.5)));
   await shot(alice, "04-live-video-phone");
   const callDom = await alice.evaluate(() => document.body.innerText);
   const callImgs = await alice.$$eval("img", (imgs) => imgs.map((img) => img.getAttribute("src") ?? ""));
@@ -258,6 +286,11 @@ async function main() {
   check("own character stays out of video signaling", !leaked.some((item) => item.kind === "ws" && item.body?.includes(aliceOwn.key)));
   await alice.getByRole("button", { name: "Stop video" }).click();
   await bob.getByRole("button", { name: "Stop video" }).click();
+  if (process.env.FACE_FIXTURE_ONLY) {
+    await browser.close();
+    console.log(`\n${passed} passed, ${failed} failed`);
+    process.exit(failed === 0 ? 0 : 1);
+  }
 
   console.log("\nreveal");
   check(

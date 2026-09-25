@@ -2,20 +2,125 @@
 
 import { useEffect, useRef, useState } from "react";
 import { Button, CharacterImage } from "@/components/ui";
+import { foreheadPose, type FaceCardPose } from "@/lib/faceCard";
 import type { Character } from "@/lib/types";
 import type { VideoCallApi } from "@/lib/useVideoCall";
 
-type CardPosition = { left: number; top: number; width: number };
-
-function useFaceCard(videoRef: React.RefObject<HTMLVideoElement | null>, active: boolean) {
-  const [position, setPosition] = useState<CardPosition | null>(null);
+function useFaceCard(
+  videoRef: React.RefObject<HTMLVideoElement | null>,
+  cardRef: React.RefObject<HTMLDivElement | null>,
+  active: boolean,
+) {
+  const [hasFace, setHasFace] = useState(false);
   const [status, setStatus] = useState<"loading" | "ready" | "unavailable">("loading");
 
   useEffect(() => {
     if (!active) return;
     let cancelled = false;
-    let timeout: number | undefined;
+    let videoFrameId: number | undefined;
+    let fallbackFrameId: number | undefined;
+    let motionFrameId: number | undefined;
     let detector: import("@mediapipe/tasks-vision").FaceDetector | undefined;
+    let target: FaceCardPose | null = null;
+    let displayed: FaceCardPose | null = null;
+    let tracked = false;
+    let lastSeen = 0;
+    let lastDetection = 0;
+    let lastMotion = 0;
+    let lastModelTimestamp = 0;
+    let inferenceInterval = 16;
+    const videoElement = videoRef.current;
+
+    const clearTracking = (updateState: boolean) => {
+      target = null;
+      displayed = null;
+      lastMotion = 0;
+      if (!tracked) return;
+      tracked = false;
+      const card = cardRef.current;
+      if (card) {
+        delete card.dataset.tracked;
+        for (const property of ["--card-x", "--card-y", "--card-width", "--card-roll", "--card-yaw"]) {
+          card.style.removeProperty(property);
+        }
+      }
+      if (updateState) setHasFace(false);
+    };
+
+    const animate = (now: number) => {
+      if (cancelled) return;
+      if (tracked && now - lastSeen > 500) clearTracking(true);
+      if (tracked && target && displayed && cardRef.current) {
+        const elapsed = lastMotion ? Math.min(now - lastMotion, 50) : 16;
+        const distance = Math.hypot(target.x - displayed.x, target.y - displayed.y);
+        const positionAlpha = 1 - Math.exp(-elapsed / (distance > 14 ? 18 : 42));
+        const sizeAlpha = 1 - Math.exp(-elapsed / 55);
+        displayed.x += (target.x - displayed.x) * positionAlpha;
+        displayed.y += (target.y - displayed.y) * positionAlpha;
+        displayed.width += (target.width - displayed.width) * sizeAlpha;
+        displayed.roll += (target.roll - displayed.roll) * positionAlpha;
+        displayed.yaw += (target.yaw - displayed.yaw) * sizeAlpha;
+        const style = cardRef.current.style;
+        style.setProperty("--card-x", `${displayed.x.toFixed(2)}px`);
+        style.setProperty("--card-y", `${displayed.y.toFixed(2)}px`);
+        style.setProperty("--card-width", `${displayed.width.toFixed(2)}px`);
+        style.setProperty("--card-roll", `${displayed.roll.toFixed(2)}deg`);
+        style.setProperty("--card-yaw", `${displayed.yaw.toFixed(2)}deg`);
+      }
+      lastMotion = now;
+      motionFrameId = tracked ? window.requestAnimationFrame(animate) : undefined;
+    };
+
+    const scheduleDetection = () => {
+      const video = videoRef.current;
+      if (!video || cancelled) return;
+      if ("requestVideoFrameCallback" in video) {
+        videoFrameId = video.requestVideoFrameCallback(detectFrame);
+      } else {
+        fallbackFrameId = window.requestAnimationFrame(detectFrame);
+      }
+    };
+
+    const detectFrame = (now: number) => {
+      if (cancelled || !detector) return;
+      const video = videoRef.current;
+      if (document.visibilityState === "visible" && video && video.readyState >= HTMLMediaElement.HAVE_CURRENT_DATA &&
+          video.videoWidth && now - lastDetection >= inferenceInterval) {
+        lastDetection = now;
+        try {
+          const started = performance.now();
+          const timestamp = Math.max(started, lastModelTimestamp + 1);
+          lastModelTimestamp = timestamp;
+          const detections = detector.detectForVideo(video, timestamp).detections;
+          const face = detections.reduce<(typeof detections)[number] | null>((best, candidate) => {
+            const area = (candidate.boundingBox?.width ?? 0) * (candidate.boundingBox?.height ?? 0);
+            const bestArea = (best?.boundingBox?.width ?? 0) * (best?.boundingBox?.height ?? 0);
+            return area > bestArea ? candidate : best;
+          }, null);
+          inferenceInterval = Math.min(42, Math.max(16, (performance.now() - started) * 1.15));
+          const pose = face && foreheadPose(face, video.videoWidth, video.videoHeight, video.clientWidth, video.clientHeight);
+          if (pose) {
+            target = pose;
+            lastSeen = now;
+            if (!displayed) displayed = { ...pose };
+            if (!tracked) {
+              tracked = true;
+              if (cardRef.current) cardRef.current.dataset.tracked = "true";
+              setHasFace(true);
+              motionFrameId = window.requestAnimationFrame(animate);
+            }
+          }
+        } catch {
+          setStatus("unavailable");
+          clearTracking(true);
+          detector.close();
+          detector = undefined;
+          return;
+        }
+      }
+      scheduleDetection();
+    };
+
     void (async () => {
       try {
         const { FaceDetector, FilesetResolver } = await import("@mediapipe/tasks-vision");
@@ -32,46 +137,22 @@ function useFaceCard(videoRef: React.RefObject<HTMLVideoElement | null>, active:
         });
         if (cancelled) { detector.close(); return; }
         setStatus("ready");
-        const detect = () => {
-          if (cancelled || !detector) return;
-          const video = videoRef.current;
-          if (document.visibilityState === "visible" && video?.readyState === HTMLMediaElement.HAVE_ENOUGH_DATA && video.videoWidth) {
-            try {
-              const face = detector.detectForVideo(video, performance.now()).detections[0]?.boundingBox;
-              if (face && video.clientWidth && video.clientHeight) {
-                const scale = Math.max(video.clientWidth / video.videoWidth, video.clientHeight / video.videoHeight);
-                const offsetX = (video.clientWidth - video.videoWidth * scale) / 2;
-                const offsetY = (video.clientHeight - video.videoHeight * scale) / 2;
-                const width = Math.min(150, Math.max(58, face.width * scale * 0.55));
-                const margin = width / 2 + 8;
-                setPosition({
-                  left: Math.max(margin, Math.min(video.clientWidth - margin, offsetX + (face.originX + face.width / 2) * scale)),
-                  top: Math.max(margin, Math.min(video.clientHeight - margin, offsetY + (face.originY + face.height * 0.12) * scale)),
-                  width,
-                });
-              } else setPosition(null);
-            } catch {
-              setStatus("unavailable");
-              detector?.close();
-              detector = undefined;
-              return;
-            }
-          }
-          timeout = window.setTimeout(detect, 125);
-        };
-        detect();
+        scheduleDetection();
       } catch {
         if (!cancelled) setStatus("unavailable");
       }
     })();
     return () => {
       cancelled = true;
-      window.clearTimeout(timeout);
+      if (videoElement && videoFrameId != null) videoElement.cancelVideoFrameCallback(videoFrameId);
+      if (fallbackFrameId != null) window.cancelAnimationFrame(fallbackFrameId);
+      if (motionFrameId != null) window.cancelAnimationFrame(motionFrameId);
+      clearTracking(false);
       detector?.close();
     };
-  }, [active, videoRef]);
+  }, [active, cardRef, videoRef]);
 
-  return { position: active ? position : null, status };
+  return { hasFace: active && hasFace, status };
 }
 
 function StreamVideo({ stream, className, muted }: { stream: MediaStream; className: string; muted: boolean }) {
@@ -88,7 +169,8 @@ function StreamVideo({ stream, className, muted }: { stream: MediaStream; classN
 
 function RemoteVideo({ stream, character }: { stream: MediaStream; character: Character | null }) {
   const ref = useRef<HTMLVideoElement>(null);
-  const { position, status } = useFaceCard(ref, Boolean(character));
+  const cardRef = useRef<HTMLDivElement>(null);
+  const { hasFace, status } = useFaceCard(ref, cardRef, Boolean(character));
   const [failedImageUrl, setFailedImageUrl] = useState<string | null>(null);
   useEffect(() => {
     const video = ref.current;
@@ -102,25 +184,18 @@ function RemoteVideo({ stream, character }: { stream: MediaStream; character: Ch
       <video ref={ref} className="h-full w-full object-cover" autoPlay playsInline muted />
       {character && (
         <div
+          ref={cardRef}
           aria-label="Their character card"
-          className="pointer-events-none absolute z-10 flex aspect-square items-center justify-center overflow-hidden rounded-xl border-2 border-amber-200 bg-[#241044] shadow-xl shadow-black/70"
-          style={position ? {
-            left: position.left,
-            top: position.top,
-            width: position.width,
-            transform: "translate(-50%, -50%)",
-          } : {
-            left: "50%", top: 6, width: 72, transform: "translateX(-50%)",
-          }}
+          className="forehead-card pointer-events-none absolute z-10 flex items-center justify-center rounded-xl border-[3px] border-[#fff4dc] bg-[#fffaf0] p-1 shadow-xl shadow-black/70"
         >
           {failedImageUrl === character.imageUrl ? (
             <span className="text-4xl" aria-hidden>{character.emoji}</span>
           ) : (
-            <img src={character.imageUrl} alt="" className="h-full w-full object-contain" onError={() => setFailedImageUrl(character.imageUrl)} />
+            <img src={character.imageUrl} alt="" className="h-full w-full rounded-md bg-[#241044] object-contain" onError={() => setFailedImageUrl(character.imageUrl)} />
           )}
         </div>
       )}
-      {character && !position && (
+      {character && !hasFace && (
         <span className="absolute top-20 left-1/2 -translate-x-1/2 rounded-full bg-black/60 px-2 py-1 text-[10px] font-bold text-white/80">
           {status === "unavailable" ? "Face tracking unavailable — card pinned" : "Looking for a face — card pinned"}
         </span>

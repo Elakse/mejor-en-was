@@ -32,6 +32,27 @@
   }
 }
 
+.forehead-card {
+  left: 50%;
+  top: 6px;
+  width: 72px;
+  aspect-ratio: 4 / 5;
+  overflow: hidden;
+  transform: translateX(-50%);
+  transform-origin: center;
+  backface-visibility: hidden;
+  will-change: transform;
+}
+
+.forehead-card[data-tracked="true"] {
+  left: 0;
+  top: 0;
+  width: var(--card-width, 72px);
+  transform: translate3d(var(--card-x, 0px), var(--card-y, 0px), 0)
+    translate(-50%, -50%) perspective(500px)
+    rotateZ(var(--card-roll, 0deg)) rotateY(var(--card-yaw, 0deg));
+}
+
 @keyframes pop-in {
   from {
     opacity: 0;

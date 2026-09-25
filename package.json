@@ -12,6 +12,7 @@
     "validate:catalog": "node scripts/validate-catalog.mjs",
     "check:images": "node scripts/check-images.mjs",
     "test:game": "node scripts/test-game.mjs",
+    "test:face-card": "node scripts/test-face-card.mjs",
     "test:e2e": "node scripts/e2e.mjs",
     "find:images": "node scripts/find-images.mjs",
     "db:start": "supabase start",

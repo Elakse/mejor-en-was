@@ -86,9 +86,11 @@ partner's incoming video. The sender's camera preview is plain video. No charact
 name, or key is put in signaling messages or composited into the outgoing stream, so a
 player's own unrevealed character is still absent from their browser. Face detection runs in
 the viewer's browser using MediaPipe. The model and WebAssembly runtime are downloaded from
-Google/jsDelivr on first use; video frames are processed locally. Detection is limited to
-about eight frames per second to reduce phone load. If the model cannot load or a face is
-outside the frame, the card stays pinned at the top of the video.
+Google/jsDelivr on first use; video frames are processed locally. Eye keypoints anchor the
+card above the eyes and set its size and rotation as the head moves. Detection follows incoming
+video frames at up to about 30 frames per second, adapting to device speed, while card motion
+is smoothed at the display refresh rate. If the model cannot load or a face is outside the
+frame, the card stays pinned at the top of the video.
 
 **Existing Supabase project:** apply
 [`supabase/migrations/20260925000000_call_signaling.sql`](supabase/migrations/20260925000000_call_signaling.sql)
@@ -183,6 +185,7 @@ Open it on two devices (the second can be your phone on the same network via
 | `npm run lint` | ESLint (includes React Compiler purity rules) |
 | `npm run typecheck` | `tsc --noEmit` |
 | `npm run test:game` | Backend integration test against Supabase (RLS, RPCs, full game) |
+| `npm run test:face-card` | Forehead placement, head rotation, and video crop geometry |
 | `npm run test:e2e` | Two-browser Playwright test, including anti-spoiler assertions |
 | `npm run validate:catalog` | Checks pairings really satisfy their clue and 10 rounds always fit |
 | `npm run check:images` | HEAD-checks every character image URL |
@@ -207,6 +210,9 @@ For `npm run test:e2e`, build and serve on port 3100 first:
 npm run build && npm start -- -p 3100
 npm run test:e2e
 ```
+
+To check live face motion with a Y4M camera fixture, set `FACE_FIXTURE_VIDEO` to its path.
+Set `FACE_FIXTURE_ONLY=1` to finish the run after the video checks.
 
 ## Deploy
 
