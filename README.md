@@ -69,7 +69,50 @@ deadlocks a game.
 
 Extras: optional 60-second round timer (auto-reveals when it runs out), skip round, fullscreen
 button, connection/partner status pill, per-round splash transition, confetti on the final
-screen, and a recap of all ten clues.
+screen, a recap of all ten clues, and an optional live video call.
+
+## Optional live video call
+
+Either player can tap **Start video call** in the lobby or during a round. Camera access is
+requested only after that tap. Both players need to opt in before their video connects; either
+can mute or stop video at any time. Denied camera permission leaves the original character-card
+game fully playable. If a microphone is unavailable, the app tries video without audio.
+
+The two browsers exchange WebRTC setup messages through a **private Supabase Realtime Broadcast
+channel**. The channel's `realtime.messages` policies allow only the two seated players into
+the topic for their current pair; a replacement player changes the topic. Supabase carries no video frames; the browsers send media directly when
+possible. During guessing, each viewer draws the **partner's** character on top of the
+partner's incoming video. The sender's camera preview is plain video. No character image,
+name, or key is put in signaling messages or composited into the outgoing stream, so a
+player's own unrevealed character is still absent from their browser. Face detection runs in
+the viewer's browser using MediaPipe. The model and WebAssembly runtime are downloaded from
+Google/jsDelivr on first use; video frames are processed locally. Detection is limited to
+about eight frames per second to reduce phone load. If the model cannot load or a face is
+outside the frame, the card stays pinned at the top of the video.
+
+**Existing Supabase project:** apply
+[`supabase/migrations/20260925000000_call_signaling.sql`](supabase/migrations/20260925000000_call_signaling.sql)
+in the SQL Editor (or through your normal migration flow). Fresh installs using `setup.sql`
+already include these policies. The call feature displays an error if the private channel
+cannot connect; gameplay continues. Do not disable the existing public Realtime setting solely
+for this feature: this call channel explicitly uses `private: true` and has its own policies.
+
+**Network reachability:** the default call uses Google's public STUN server. Some mobile,
+corporate, or symmetric-NAT networks cannot connect peer to peer. For reliable calling,
+provision a TURN server that supports coturn's REST API shared-secret authentication and set
+these **server-side Vercel environment variables**:
+
+```
+TURN_URLS=turn:your-turn.example.com:3478,turns:your-turn.example.com:5349
+TURN_SHARED_SECRET=your-coturn-static-auth-secret
+```
+
+The `/api/ice` route verifies the player's Supabase session and room membership, then gives
+that player a one-hour TURN credential. Keep `TURN_SHARED_SECRET` off the client. TURN relays
+media and may incur bandwidth charges; no TURN service is bundled or required for games on
+networks where direct WebRTC works. Camera and microphone access require HTTPS in production
+or `localhost` in development. A plain `http://<LAN IP>` phone preview cannot request a
+camera. Browsers may pause video and tracking while a phone is backgrounded or locked.
 
 ## Reliability
 
@@ -170,6 +213,8 @@ npm run test:e2e
 1. Push the repository to GitHub.
 2. Import it on [Vercel](https://vercel.com/new). The default Next.js settings are correct.
 3. Add the two `NEXT_PUBLIC_SUPABASE_*` environment variables for Production and Preview.
+   If you want reliable calling across restrictive networks, also configure the two optional
+   server-side TURN variables above.
 4. Deploy, then open the URL on two phones.
 
 Or from the CLI:

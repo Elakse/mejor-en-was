@@ -1,11 +1,13 @@
 "use client";
 
 import { useState } from "react";
-import { Button, Card, CharacterImage, Pill, Spinner, TimerBar } from "@/components/ui";
+import { Button, Card, Pill, Spinner, TimerBar } from "@/components/ui";
+import { VideoStage } from "@/components/VideoCall";
 import { ROUND_SECONDS } from "@/lib/types";
 import type { GameApi } from "@/lib/useGame";
+import type { VideoCallApi } from "@/lib/useVideoCall";
 
-export function Guess({ game }: { game: GameApi }) {
+export function Guess({ game, call }: { game: GameApi; call: VideoCallApi }) {
   const [confirmSkip, setConfirmSkip] = useState(false);
   const round = game.snapshot?.round;
   const partnerCharacter = game.partnerCharacter;
@@ -40,19 +42,11 @@ export function Guess({ game }: { game: GameApi }) {
       </Card>
 
       <Card className="anim-pop flex min-h-0 flex-1 flex-col gap-1.5 p-2">
-        <div className="relative flex min-h-0 flex-1 items-center justify-center overflow-hidden rounded-2xl bg-gradient-to-b from-white/10 to-white/[0.03] p-1">
-          {partnerCharacter ? (
-            <CharacterImage character={partnerCharacter} eager />
-          ) : (
-            <div className="flex flex-col items-center gap-2 text-white/50">
-              <Spinner />
-              <span className="text-sm font-bold">Loading their character…</span>
-            </div>
-          )}
-          <span className="absolute top-2 left-2 rounded-full bg-black/55 px-2.5 py-1 text-[10px] font-black tracking-widest text-white/85 uppercase backdrop-blur">
-            {game.partner?.name ? `${game.partner.name}'s character` : "Their character"}
-          </span>
-        </div>
+        <VideoStage
+          call={call}
+          character={partnerCharacter}
+          partnerName={game.partner?.name ? `${game.partner.name}'s character` : "Their character"}
+        />
         <p className="shrink-0 text-center text-[13px] leading-tight font-bold text-white/65">
           {game.partner?.name ?? "Your partner"} can see your character — you cannot.
         </p>

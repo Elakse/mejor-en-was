@@ -52,6 +52,23 @@ async function call(client, fn, args, label) {
 
 const state = async (client, gameId) => call(client, "get_state", { p_game_id: gameId });
 
+async function canJoinCall(client, topic) {
+  const { data } = await client.auth.getSession();
+  await client.realtime.setAuth(data.session.access_token);
+  const channel = client.channel(topic, { config: { private: true } });
+  const status = await new Promise((resolve) => {
+    const timer = setTimeout(() => resolve("TIMED_OUT"), 10000);
+    channel.subscribe((next) => {
+      if (next === "SUBSCRIBED" || next === "CHANNEL_ERROR" || next === "TIMED_OUT") {
+        clearTimeout(timer);
+        resolve(next);
+      }
+    });
+  });
+  await client.removeChannel(channel);
+  return status === "SUBSCRIBED";
+}
+
 async function main() {
   console.log(`Supabase: ${url}\n`);
 
@@ -84,6 +101,11 @@ async function main() {
 
   const strangerState = await state(stranger, created.game_id);
   check("non-player cannot read game state", strangerState === null || strangerState?.game == null);
+  const callTopic = `call:${created.game_id}:${stateA.players.map((player) => player.id).sort().join(":")}`;
+  check("seated player can join private call signaling", await canJoinCall(alice, callTopic));
+  check("non-player cannot join private call signaling", !(await canJoinCall(stranger, callTopic)));
+  check("obsolete player pair cannot join current call signaling", !(await canJoinCall(alice,
+    `call:${created.game_id}:${stateA.players[0].id}:00000000-0000-0000-0000-000000000000`)));
 
   console.log("\nstart");
   await call(alice, "set_lobby_ready", { p_game_id: created.game_id, p_ready: true });

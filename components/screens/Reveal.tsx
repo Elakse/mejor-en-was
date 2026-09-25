@@ -1,9 +1,11 @@
 "use client";
 
 import { Button, Card, CharacterImage, Pill } from "@/components/ui";
+import { VideoCallControls, VideoStage } from "@/components/VideoCall";
 import type { GameApi } from "@/lib/useGame";
+import type { VideoCallApi } from "@/lib/useVideoCall";
 
-export function Reveal({ game }: { game: GameApi }) {
+export function Reveal({ game, call }: { game: GameApi; call: VideoCallApi }) {
   const round = game.snapshot?.round;
   const isLast = (round?.index ?? 0) >= (round?.total ?? 10) - 1;
 
@@ -52,6 +54,14 @@ export function Reveal({ game }: { game: GameApi }) {
           </span>
         </Card>
       </div>
+
+      {call.localStream ? (
+        <Card className="shrink-0 p-2">
+          <VideoStage call={call} character={game.partnerCharacter} partnerName={game.partner?.name ?? "Partner"} compact />
+        </Card>
+      ) : (
+        <VideoCallControls call={call} />
+      )}
 
       <p className="text-center text-xs font-semibold text-white/45">
         {game.partner?.name ?? "Your partner"} now knows who they were. Say it out loud!

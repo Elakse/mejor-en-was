@@ -56,9 +56,13 @@ async function clickIfVisible(locator, timeout = 8000) {
 }
 
 async function main() {
-  const browser = await chromium.launch();
+  const browser = await chromium.launch({
+    args: ["--use-fake-ui-for-media-stream", "--use-fake-device-for-media-stream"],
+  });
   const phone = await browser.newContext({ ...devices["iPhone 13"] });
   const desktop = await browser.newContext({ viewport: { width: 1280, height: 900 } });
+  await phone.grantPermissions(["camera", "microphone"], { origin: new URL(BASE).origin });
+  await desktop.grantPermissions(["camera", "microphone"], { origin: new URL(BASE).origin });
 
   const alice = await phone.newPage();
   const bob = await desktop.newPage();
@@ -73,6 +77,10 @@ async function main() {
     } catch {}
   });
   alice.on("pageerror", (e) => console.log("  page error:", e.message));
+  alice.on("websocket", (ws) => {
+    ws.on("framesent", (frame) => leaked.push({ kind: "ws", url: ws.url(), body: String(frame.payload) }));
+    ws.on("framereceived", (frame) => leaked.push({ kind: "ws", url: ws.url(), body: String(frame.payload) }));
+  });
 
   console.log("\ncreate a game");
   await alice.goto(BASE, { waitUntil: "domcontentloaded" });
@@ -225,6 +233,31 @@ async function main() {
     .catch(() => false);
   check("partner character image actually renders", rendered);
   await shot(alice, "03-guessing-phone");
+
+  console.log("\noptional video call");
+  await alice.getByRole("button", { name: "Start video call" }).click();
+  await bob.getByRole("button", { name: "Start video call" }).click();
+  const videoConnected = await visible(alice.getByRole("status").getByText("Live video call"), 25000);
+  check("both opted-in players connect by video", videoConnected);
+  check("local preview and remote video play", await alice.locator("video").count() >= 2);
+  check("the partner's character is attached to incoming video", await alice.getByLabel("Their character card").isVisible());
+  const trackingReady = await alice.locator('[data-face-tracking="ready"]').waitFor({ timeout: 20000 })
+    .then(() => true).catch(() => false);
+  check("on-device face detector loads", trackingReady);
+  const cardBox = await alice.getByLabel("Their character card").boundingBox();
+  const videoBox = await alice.locator("[data-face-tracking]").boundingBox();
+  check("tracked character card stays inside the video", Boolean(cardBox && videoBox &&
+    cardBox.x >= videoBox.x - 1 && cardBox.y >= videoBox.y - 1 &&
+    cardBox.x + cardBox.width <= videoBox.x + videoBox.width + 1 &&
+    cardBox.y + cardBox.height <= videoBox.y + videoBox.height + 1));
+  await shot(alice, "04-live-video-phone");
+  const callDom = await alice.evaluate(() => document.body.innerText);
+  const callImgs = await alice.$$eval("img", (imgs) => imgs.map((img) => img.getAttribute("src") ?? ""));
+  check("own character stays out of the video UI", !callDom.toLowerCase().includes(aliceOwn.name.toLowerCase()));
+  check("own character image stays out of the video UI", !callImgs.some((src) => src.includes(ownFile)));
+  check("own character stays out of video signaling", !leaked.some((item) => item.kind === "ws" && item.body?.includes(aliceOwn.key)));
+  await alice.getByRole("button", { name: "Stop video" }).click();
+  await bob.getByRole("button", { name: "Stop video" }).click();
 
   console.log("\nreveal");
   check(

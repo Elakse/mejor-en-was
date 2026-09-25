@@ -3,7 +3,9 @@
 import { useState } from "react";
 import { QRCodeSVG } from "qrcode.react";
 import { Button, Card, Dot, Pill } from "@/components/ui";
+import { VideoStage } from "@/components/VideoCall";
 import type { GameApi } from "@/lib/useGame";
+import type { VideoCallApi } from "@/lib/useVideoCall";
 
 function joinUrlFor(code: string | null) {
   if (!code || typeof window === "undefined") return "";
@@ -16,7 +18,7 @@ function onlineFor(game: GameApi, seat: number) {
   return game.now - player.lastSeen < 45000;
 }
 
-export function Lobby({ game }: { game: GameApi }) {
+export function Lobby({ game, call }: { game: GameApi; call: VideoCallApi }) {
   const joinUrl = joinUrlFor(game.code);
   const [copied, setCopied] = useState<"code" | "link" | null>(null);
   const [showQr, setShowQr] = useState(false);
@@ -124,6 +126,13 @@ export function Lobby({ game }: { game: GameApi }) {
           );
         })}
       </Card>
+
+      {!alone && (
+        <Card className="space-y-2 p-2.5">
+          <p className="px-1 text-xs font-black tracking-widest text-white/60 uppercase">Optional video call</p>
+          <VideoStage call={call} character={null} partnerName={game.partner?.name ?? "Partner"} compact />
+        </Card>
+      )}
 
       <Card className="flex items-center justify-between gap-3">
         <div>

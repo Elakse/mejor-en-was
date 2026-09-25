@@ -8,7 +8,9 @@ import { Home } from "@/components/screens/Home";
 import { Lobby } from "@/components/screens/Lobby";
 import { Reveal } from "@/components/screens/Reveal";
 import { Button, Card, Spinner } from "@/components/ui";
+import { RemoteAudio } from "@/components/VideoCall";
 import { useGame } from "@/lib/useGame";
+import { useVideoCall } from "@/lib/useVideoCall";
 
 function Backdrop() {
   return (
@@ -101,6 +103,16 @@ function RoundSplash({ round }: { round: number }) {
 
 export function GameRoot() {
   const game = useGame();
+  const playerIds = game.snapshot?.players.map((player) => player.id).sort() ?? [];
+  const callTopic = game.snapshot && playerIds.length === 2
+    ? `call:${game.snapshot.game.id}:${playerIds.join(":")}`
+    : null;
+  const call = useVideoCall(
+    game.snapshot?.game.id ?? null,
+    callTopic,
+    game.me?.seat ?? null,
+    game.partner?.seat ?? null,
+  );
   const state = game.snapshot?.game.state;
   const roundIndex = game.snapshot?.game.round_index ?? 0;
   const [splash, setSplash] = useState<number | null>(null);
@@ -139,6 +151,7 @@ export function GameRoot() {
 
       {game.phase === "game" && (
         <>
+          <RemoteAudio call={call} />
           <Header status={status} />
 
           {!game.snapshot && (
@@ -148,7 +161,7 @@ export function GameRoot() {
           )}
 
           {game.snapshot && (state === "lobby" ? (
-            <Lobby game={game} />
+            <Lobby game={game} call={call} />
           ) : game.snapshot.players.length < 2 ? (
             <div className="mx-auto flex w-full max-w-md flex-1 flex-col items-center justify-center gap-4 px-5 text-center">
               <span className="text-5xl">👋</span>
@@ -161,11 +174,11 @@ export function GameRoot() {
               </Button>
             </div>
           ) : state === "guessing" ? (
-            <Guess game={game} />
+            <Guess game={game} call={call} />
           ) : state === "revealed" ? (
-            <Reveal game={game} />
+            <Reveal game={game} call={call} />
           ) : (
-            <Final game={game} />
+            <Final game={game} call={call} />
           ))}
         </>
       )}

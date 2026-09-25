@@ -2,9 +2,11 @@
 
 import { useEffect, useState } from "react";
 import { Button, Card, Confetti, Pill, Spinner } from "@/components/ui";
+import { VideoCallControls } from "@/components/VideoCall";
 import { getSupabase } from "@/lib/supabase";
 import type { Character } from "@/lib/types";
 import type { GameApi } from "@/lib/useGame";
+import type { VideoCallApi } from "@/lib/useVideoCall";
 
 interface RecapRound {
   index: number;
@@ -13,7 +15,7 @@ interface RecapRound {
   theirs: Character | null;
 }
 
-export function Final({ game }: { game: GameApi }) {
+export function Final({ game, call }: { game: GameApi; call: VideoCallApi }) {
   const [recap, setRecap] = useState<RecapRound[] | null>(null);
   const gameId = game.snapshot?.game.id;
   const mySeat = game.me?.seat;
@@ -127,6 +129,7 @@ export function Final({ game }: { game: GameApi }) {
       </Card>
 
       <div className="space-y-2">
+        <VideoCallControls call={call} />
         <Button
           size="lg"
           className="w-full"

@@ -64,9 +64,6 @@ fs.writeFileSync(path.join(root, "supabase", "setup.sql"), setup);
 
 const migrations = path.join(root, "supabase", "migrations");
 fs.mkdirSync(migrations, { recursive: true });
-for (const f of fs.readdirSync(migrations)) {
-  if (f.endsWith(".sql")) fs.unlinkSync(path.join(migrations, f));
-}
 fs.writeFileSync(path.join(migrations, "20260101000000_init.sql"), schema.trim() + "\n");
 fs.writeFileSync(path.join(migrations, "20260101000001_seed.sql"), seed.trim() + "\n");
 
